@@ -1,6 +1,5 @@
-i=1
+n=int(input("enter the number"))
 sum=0
-while i<=6:
+for i in range(0,n+1,1):
     sum=sum+i
-    i=i+1
-gitprint(sum)
+print(sum)
