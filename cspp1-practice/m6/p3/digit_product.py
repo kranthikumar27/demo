@@ -6,7 +6,7 @@ example:
 '''
 N = int(input())
 I = 1
-while I < abs(N):
+while I <= N:
     J = N % 10
     I = J * I
     N = N // 10    
