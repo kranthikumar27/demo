@@ -15,14 +15,14 @@ If you've spent more than a few hours on this problem, we suggest that you move 
 If you have time, come back to this problem after you've had a break and cleared your head.'''
 
 def main():
-        s=input("Enter string")
-        s=s+" "
-        i=0
-        len1=-1
-        while i<(len(s)-2):
-            j=i
-            while s[j]<=s[j+1] and (j)<(len(s)-2):
-                j=j+1
+    s=input("Enter string")
+    s=s+" "
+    i=0
+    len1=-1
+    while i<(len(s)-2):
+        j=i
+        while s[j]<=s[j+1] and (j)<(len(s)-2):
+            j=j+1
             len2=j-i
             if len2>len1:
                 len1=len2
@@ -35,6 +35,5 @@ def main():
         while k<=l:
             print(s[k])
             k=k+1
-	if __name__ == "__main__"
-	main()
-
+    if __name__ == "__main__":
+        main()
