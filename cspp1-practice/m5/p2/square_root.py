@@ -1,5 +1,5 @@
 """
-square root 
+square root
 """
 N = int(input())
 E = 0.1
