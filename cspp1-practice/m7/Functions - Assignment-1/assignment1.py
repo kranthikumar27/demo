@@ -25,18 +25,18 @@
 # Updated balance each month = (Monthly unpaid balance) + (Monthly interest rate x Monthly unpaid balance)
 
 
-def paying_Debt_Off_In_A_Year(balance, annual_Interest_Rate, monthly_Payment_Rate):
+def paying_debt_off_in_a_year(balance, annual_interest_rate, monthly_payment_rate):
         previous_balance = balance
         for _ in range(12):
-            monthly_interest_rate = (annual_interest_rate) / 12.0
-            minimum_monthly_payment = (minimum_monthly_payment_rate) * (previous_balance)
+            monthly_interest_rate = (annual_interest_rate / 12.0)
+            minimum_monthly_payment = (monthly_payment_rate) * (previous_balance)
             monthly_unpaid_balance = (previous_balance) - (minimum_monthly_payment)
             updated_balance_each_month = (monthly_unpaid_balance) + (monthly_interest_rate * monthly_unpaid_balance)
             previous_balance = updated_balance_each_month
         return round(updated_balance_each_month,2)
                 
 def main():
-        '''this program is used to print the remaining balance of credit cvard after one year '''
+    '''this program is used to print the remaining balance of credit cvard after one year '''
     data = input()
     data = data.split(' ')
     data = list(map(float, data))
