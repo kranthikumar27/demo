@@ -36,6 +36,7 @@ def paying_Debt_Off_In_A_Year(balance, annual_Interest_Rate, monthly_Payment_Rat
         return rounded(updated_balance_each_month,2)
                 
 def main():
+        '''this program is used to print the remaining '''
 	data = input()
 	data = data.split(' ')
 	data = list(map(float, data))
