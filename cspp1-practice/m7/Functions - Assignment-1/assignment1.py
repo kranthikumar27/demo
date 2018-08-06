@@ -31,8 +31,8 @@ def paying_Debt_Off_In_A_Year(balance, annual_Interest_Rate, monthly_Payment_Rat
             monthly_interest_rate = (annual_interest_rate) / 12.0
             minimum_monthly_payment = (minimum_monthly_payment_rate) * (previous_balance)
             monthly_unpaid_balance = (previous_balance) - (minimum_monthly_payment)
-                updated_balance_each_month = (monthly_unpaid_balance) + (monthly_interest_rate * monthly_unpaid_balance)
-                previous_balance = updated_balance_each_month
+            updated_balance_each_month = (monthly_unpaid_balance) + (monthly_interest_rate * monthly_unpaid_balance)
+            previous_balance = updated_balance_each_month
         return round(updated_balance_each_month,2)
                 
 def main():
