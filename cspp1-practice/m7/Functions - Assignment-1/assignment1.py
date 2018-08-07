@@ -30,6 +30,9 @@ the remaining balance at the end of the year in the format:
 '''
 
 def paying_debt_off_in_a_year(balance, annual_interest_rate, monthly_payment_rate):
+    '''input 42, 0.2,0.04
+    Output 31.38'''
+      
     previous_balance = balance
     for _ in range(12):
         monthly_interest_rate = (annual_interest_rate / 12.0)
