@@ -18,7 +18,7 @@ def sum_of_digits(num_var):
 
 def main():
     a = input()
-    print(sum_of_digits(int(a)))  
+    print(sum_of_digits(int(a)))
 
 if __name__== "__main__":
     main()
