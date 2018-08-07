@@ -11,11 +11,10 @@ def factorial(num_val):
     # Your code here
     if num_val == 1 or num_val == 0:
         return 1
-    else:
-        return num_val * factorial(num_val - 1)  
+    return num_val * factorial(num_val - 1)
 def main():
-    A = input()
-    print(factorial(int(A)))
+    a = input()
+    print(factorial(int(a)))
 
 if __name__ == "__main__":
     main()
