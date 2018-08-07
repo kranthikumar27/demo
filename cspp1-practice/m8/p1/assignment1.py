@@ -16,8 +16,8 @@ def main():
     '''
     fact
     '''
-    a = input()
-    print(factorial(int(a)))
+    data = input()
+    print(factorial(int(data)))
 
 if __name__ == "__main__":
     main()
