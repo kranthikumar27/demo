@@ -2,17 +2,17 @@
 # This function takes in one number and returns one number.
 '''
 
-def factorial(NUM_VAL):
+def factorial(num_val):
     '''
     n is positive Integer
 
     returns: a positive integer, the factorial of n.
     '''
     # Your code here
-    if NUM_VAL == 1 or NUM_VAL == 0:
+    if num_val == 1 or num_val == 0:
         return 1
     else:
-        return NUM_VAL * factorial(NUM_VAL - 1)  
+        return num_val * factorial(num_val - 1)  
 def main():
     A = input()
     print(factorial(int(A)))
