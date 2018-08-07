@@ -1,9 +1,3 @@
-# Exercise: Assignment-1
-# Write a Python function, factorial(n), that takes in one number and returns the factorial of given number.
-
-# This function takes in one number and returns one number.
-
-
 def factorial(Num_val):
     '''
     n is positive Integer
@@ -18,8 +12,8 @@ def factorial(Num_val):
     
 
 def main():
-    a = input()
-    print(factorial(int(a)))    
+    A = input()
+    print(factorial(int(A)))    
 
 if __name__ == "__main__":
     main()
