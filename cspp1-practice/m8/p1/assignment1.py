@@ -19,4 +19,4 @@ def factorial(Num_val):
     A = input()
     print(factorial(int(A)))
 if __name__ == "__main__":
-    main()
+    main():
