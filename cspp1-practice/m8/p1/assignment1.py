@@ -9,11 +9,8 @@ def factorial(Num_val):
         return 1
     else:
         return Num_val * factorial(Num_val - 1)
-    
-
 def main():
     A = input()
-    print(factorial(int(A)))    
-
+    print(factorial(int(A)))
 if __name__ == "__main__":
     main()
