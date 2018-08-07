@@ -11,6 +11,7 @@ def factorial(NUM_VAL):
     # Your code here
     if NUM_VAL == 1 or NUM_VAL == 0:
         return 1
+    else:
         return NUM_VAL * factorial(NUM_VAL - 1)  
 def main():
     A = input()
