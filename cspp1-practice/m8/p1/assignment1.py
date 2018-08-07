@@ -1,7 +1,6 @@
-# Exercise: Assignment-1
-
+'''
 # This function takes in one number and returns one number.
-
+'''
 
 def factorial(Num_val):
     '''
