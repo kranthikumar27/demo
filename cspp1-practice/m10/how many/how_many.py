@@ -8,21 +8,23 @@ def how_many(aDict):
 
     returns: int, how many values are in the dictionary.
     '''
-    count=0
-    for i in range(len(aDict)):
-        count+=1
+    sum=0
+    for i in aDict:
+        sum+=len(aDict[i])
+    return sum
         
     
 
 def main():
+    n=input()
     aDict={}
-    s=input()
-    l=s.split()
-    if l[0][0] not in aDict:
-        aDict[l[0][0]]=[l[1]]
-    else:
-        aDict[l[0][0]].append(l[1])
-        
+    for i in range(int(n)):
+        s=input()
+        l=s.split()
+        if l[0][0] not in aDict:
+            aDict[l[0][0]]=[l[1]]
+        else:
+            aDict[l[0][0]].append(l[1])
     print(how_many(aDict))
 
 
