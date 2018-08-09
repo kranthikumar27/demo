@@ -14,11 +14,11 @@ def get_available_letters(letters_guessed):
     returns: string, comprised of letters that represents what letters have not
       yet been guessed.
     '''
-    a = []
+    a_b = []
     for i in VAR_VAL:
         if i not in letters_guessed:
-            a.append(i)
-    return ''.join(a)
+            a_b.append(i)
+    return ''.join(a_b)
 
 
 
