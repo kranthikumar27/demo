@@ -7,18 +7,18 @@ that are not in letters_guessed
 '''
 
 import string
-var_val = string.ascii_lowercase
+VAR_VAL = string.ascii_lowercase
 def get_available_letters(letters_guessed):
     '''
     :param letters_guessed: list, what letters have been guessed so far
     returns: string, comprised of letters that represents what letters have not
       yet been guessed.
     '''
-    A = []
-    for i in var_val:
+    a = []
+    for i in VAR_VAL:
         if i not in letters_guessed:
-            A.append(i)
-    return ''.join(A)
+            a.append(i)
+    return ''.join(a)
 
 
 
