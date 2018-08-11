@@ -37,12 +37,14 @@ def create_social_network(list1):
     list1=lists.split()
     flag = 1
     for i in list1:
-        if i=='follows':
+        if i == 'follows':
             flag=0
-        if flag==1:
+        if flag == 1:
             return adict
-            lists=list1.split('/n')
+            lists = list1.split('/n')
             for i in range(len(lists)):
+                key_val = list2[i][0]
+                value_val = list2[i][1]
                 if key_val in dicti.keys():
                     if int(value_val) not in dicti[key_val]:
                         dicti[key_val].append(int(value_val))
