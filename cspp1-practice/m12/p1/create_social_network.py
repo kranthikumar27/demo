@@ -38,7 +38,7 @@ def create_social_network(data):
     list1 = []
     for i in lists:
         key_val, value_val = i.splitlists()
-        list1=i.append()
+        list1=i.append(lists)
         value_val = value_val.split(',')
         adict.append(key_val)
         print(key_val, value_val)
