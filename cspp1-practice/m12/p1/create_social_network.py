@@ -2,7 +2,7 @@
     Assignment-1 Create Social Network
 '''
 
-def create_social_network(data):
+def create_social_network(list1):
     '''
         The data argument passed to the function is a string
         It represents simple social network data
@@ -34,16 +34,21 @@ def create_social_network(data):
 
     # remove the pass below and start writing your code
     adict = {}
-    lists = []
-    list1 = []
-    for i in lists:
-        key_val, value_val = i.splitlists()
-        list1=i.append(lists)
-        value_val = value_val.split(',')
-        adict.append(key_val)
-        print(key_val, value_val)
-        adict[key_val] = [int(value_val)]
-    return adict
+    list1=lists.split()
+    flag = 1
+    for i in list1:
+        if i=='follows':
+            flag=0
+        if flag==1:
+            return adict
+            lists=list1.split('/n')
+            for i in range(len(lists)):
+                if key_val in dicti.keys():
+                    if int(value_val) not in dicti[key_val]:
+                        dicti[key_val].append(int(value_val))
+                    else:
+                        dicti[key_val] = [int(value_val)]
+    return dicti
 
 def main():
     '''
