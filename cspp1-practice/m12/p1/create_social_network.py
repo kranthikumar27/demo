@@ -34,8 +34,9 @@ def create_social_network(data):
 
     # remove the pass below and start writing your code
     adict = {}
-    for i in data:
-        i=data.splitlines()
+    lists = []
+    list1 = []
+    for i in lists:
         key_val, value_val = i.split(' ')
         value_val = value_val.split(',')
         print(k, v)
