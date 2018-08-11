@@ -35,6 +35,8 @@ def create_social_network(list1):
     # remove the pass below and start writing your code
     adict = {}
     list1 = []
+    key_val = []
+    value_val = []
     list1=lists.split()
     flag = 1
     for i in list1:
@@ -44,13 +46,13 @@ def create_social_network(list1):
             return adict
             lists = list1.split('/n')
             for i in range(len(lists)):
-                key_val = list2[i][0]
-                value_val = list2[i][1]
-                if key_val in dicti.keys():
-                    if int(value_val) not in dicti[key_val]:
-                        dicti[key_val].append(int(value_val))
+                key_val = lists[i][0]
+                value_val = lists[i][1]
+                if key_val in adict.keys():
+                    if int(value_val) not in adict[key_val]:
+                        adict[key_val].append(int(value_val))
                     else:
-                        dicti[key_val] = [int(value_val)]
+                        adict[key_val] = [int(value_val)]
     return adict
 
 def main():
