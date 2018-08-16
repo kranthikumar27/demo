@@ -16,14 +16,14 @@ def is_straight(hand):
     '''
     list_1 = []
     dicti = {'T':10, 'J':11, 'Q':12, 'K':13, 'A':14}
-    for i in range(len(hand)):
+    for i, in enumerate(hand):
         if hand[i][0] not in dicti:
             list_1.append(int(hand[i][0]))
         else:
             list_1.append(dicti[hand[i][0]])
     list_1.sort()
     v_c = 0
-    for i in range((len(list_1)-1)):
+    for i, in enumerate((list_1)-1):
         if list_1[i+1]-list_1[i] == 1:
             v_c = v_c + 1
     if v_c == len(list_1)-1:
