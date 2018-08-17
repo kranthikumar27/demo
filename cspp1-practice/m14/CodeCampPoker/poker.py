@@ -25,7 +25,7 @@ def is_straight(hand):
     v_c = 0
     for i in range((len(list_1)-1)):
         if list_1[i+1]-list_1[i] == 1:
-            v_c = v_c + 1
+            v_c += 1
     if v_c == len(list_1)-1:
         return True
     return False
@@ -47,7 +47,7 @@ def is_flush(hand):
     v_e = 0
     for each_val in range(len(last)-1):
         if last[each_val] == last[each_val+1]:
-            v_e = v_e + 1
+            v_e += 1
     if v_e == (len(last)-1):
         return True
     return False
