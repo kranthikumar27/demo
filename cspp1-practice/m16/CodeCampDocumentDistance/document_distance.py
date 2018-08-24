@@ -72,15 +72,7 @@ def similarity(dict1, dict2):
     frequency = sum_of_numerator/(math.sqrt(sum_first)*(math.sqrt(sum_second)))
     return frequency
 
-    #print(frequency_words)
-    #print(list_of_words_inputone,list_of_words_inputtwo)
-    # for word in list1:
-    #   if char in word:
-    #       #word1 = word.strip(char)
-    #       list1 = list1.append(word.strip(char))
-    # print(list1)
-
-
+ 
 def load_stopwords(file):
     '''
         loads stop words from a file and returns a dictionary

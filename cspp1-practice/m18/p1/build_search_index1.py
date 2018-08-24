@@ -20,8 +20,7 @@
         .
     }
 '''
-import re
-filename='stopwords'
+FILENAME = "stopwords.txt"
 # helper function to load the stop words from a file
 def load_stopwords(filename):
     '''
@@ -34,19 +33,39 @@ def load_stopwords(filename):
     return stopwords
 
 
-def word_list(data):
+def word_list(text):
     '''
         Change case to lower and split the words using a SPACE
         Clean up the text by remvoing all the non alphabet characters
         return a list of words
     '''
-    data = data.lower()
-    data_list = data.split(" ")
-    count = 0
-    while count < len(data_list):
-        data_list[count] = re.sub("[^a-z]","",data_list[count])
-        count += 1
-    return word_list
+    temp2 = []
+    characters = ".,';"
+    for char in characters:
+        if char in text:
+            text = text.replace(char, '')
+
+
+    temp1 = text.lower().split()
+    temp2 = list(temp1)
+    #print(temp2)
+    for word in temp2:
+        if word in load_stopwords(FILENAME):
+            temp1.remove(word)
+
+
+        #temp1.append(re.sub('[^a-zA-Z]','',word))
+
+    #temp1 = []
+    #temp1.append(re.sub('[^a-zA-Z]','',text))
+    # characters ="!@#$%^&*()_+':;?012346789*/-+"
+    #print(temp1)
+    # for word in text:
+    #     for character in characters:
+    #         if character in word:
+    #             word.replace(character, '')
+    # print(text)
+    return temp1
 
 def build_search_index(docs):
     '''
@@ -54,6 +73,23 @@ def build_search_index(docs):
     '''
 
     # initialize a search index (an empty dictionary)
+    search_index = {}
+    #print(docs)
+    for line in range(len(docs)):
+        updated_docs = word_list(docs[line])
+        for word in updated_docs:
+            if word not in search_index.keys():
+                search_index[word] = [(line, updated_docs.count(word))]
+            else:
+                if (line, updated_docs.count(word)) not in search_index[word]:
+                    search_index[word].append((line, updated_docs.count(word)))
+
+    # for word in search_index:
+    #     search_index[word] = set(search_index[word])
+
+        #print(str1)
+        #return str1.index(line)
+    #print(search_index)
 
     # iterate through all the docs
     # keep track of doc_id which is the list index corresponding the document
@@ -63,25 +99,7 @@ def build_search_index(docs):
 
         # add or update the words of the doc to the search index
 
-    # return search index
-    freq_dict = []
-         #print(word_list_2)
-    for each_word in word_list:
-        if len(each_word) > 0:
-            if each_word not in freq_dict:
-                freq_dict[each_word] = [1,0]
-            else:
-                freq_dict[each_word][1] += 1
-
-
-    for word in freq_dict:
-        if word in word_list:
-            freq_dict.append.keys()
-        else:
-            freq_dict.append.values()
-            
-    return word_list
-
+    return search_index
 
 # helper function to print the search index
 # use this to verify how the search index looks
@@ -92,7 +110,6 @@ def print_search_index(index):
     keys = sorted(index.keys())
     for key in keys:
         print(key, " - ", index[key])
-
 
 # main function that loads the docs from files
 def main():
@@ -109,6 +126,7 @@ def main():
         i += 1
 
     # call print to display the search index
+    #print(documents)
     print_search_index(build_search_index(documents))
 
 if __name__ == '__main__':
