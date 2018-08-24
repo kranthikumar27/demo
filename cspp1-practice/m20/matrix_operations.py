@@ -1,6 +1,6 @@
-    '''
-    this is the program ror module20
-    '''
+'''
+this is the program ror module20
+'''
 def mult_matrix(matrix1, matrix2):
     '''
         check if the matrix1 columns = matrix2 rows
