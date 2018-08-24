@@ -1,3 +1,6 @@
+    '''
+    this is the program ror module20
+    '''
 def mult_matrix(matrix1, matrix2):
     '''
         check if the matrix1 columns = matrix2 rows
@@ -57,13 +60,14 @@ def read_matrix():
     '''
     matrix = []
     rows, columns = input().split(',')
-    for i in range(int(rows)):
+    for _ in range(int(rows)):
         row = list(map(int, input().split()))
         assert len(row) == int(columns)
         matrix.append(row)
     return matrix
 
 def main():
+    '''read input '''
         # read matrix 1
     try:
         matrix1 = read_matrix()
