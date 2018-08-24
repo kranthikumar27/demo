@@ -23,7 +23,7 @@ def mult_matrix(matrix1, matrix2):
                 mul_matrix_row.append(mul_matrix_values)
             multiply_matrix.append(mul_matrix_row)
         return multiply_matrix
-    else:
+    
         print("Error: Matrix shapes invalid for multiplication")
     return None
 
