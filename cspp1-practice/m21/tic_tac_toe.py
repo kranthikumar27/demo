@@ -1,4 +1,4 @@
-''' it is a program for desideing the winner of the game tic tac toe''' 
+''' it is a program for desideing the winner of the game tic tac toe'''
 
 from collections import Counter
 
@@ -15,7 +15,7 @@ def game_winner(game):
         return "invalid input"
 
     if abs(counter['x'] - counter['o']) == 1:
-        if ((game[0][0] == 'x' and game[0][1] == 'x' and game[0][2] == 'x') or 
+        if ((game[0][0] == 'x' and game[0][1] == 'x' and game[0][2] == 'x') or
                 (game[1][0] == 'x' and game[1][1] == 'x' and game[1][2] == 'x') or
                 (game[2][0] == 'x' and game[2][1] == 'x' and game[2][2] == 'x') or
                 (game[0][0] == 'x' and game[1][0] == 'x' and game[2][0] == 'x') or
@@ -24,7 +24,7 @@ def game_winner(game):
                 (game[0][0] == 'x' and game[1][1] == 'x' and game[2][2] == 'x') or
                 (game[2][0] == 'x' and game[1][1] == 'x' and game[0][2] == 'x')):
             return 'x'
-        if ((game[0][0] == 'o' and game[0][1] == 'o' and game[0][2] == 'o') or 
+        if ((game[0][0] == 'o' and game[0][1] == 'o' and game[0][2] == 'o') or
                 (game[1][0] == 'o' and game[1][1] == 'o' and game[1][2] == 'o') or
                 (game[2][0] == 'o' and game[2][1] == 'o' and game[2][2] == 'o') or
                 (game[0][0] == 'o' and game[1][0] == 'o' and game[2][0] == 'o') or
