@@ -12,7 +12,7 @@ def game_winner(game):
 	if flag == 1:
 		return "invalid input"
 
-	if abs(counter['x'] - counter['o'] == 1):
+	if abs(counter['x'] - counter['o']) == 1:
 		if ((game[0][0] == 'x' and game[0][1] == 'x' and game[0][2] == 'x') or 
 			(game[1][0] == 'x' and game[1][1] == 'x' and game[1][2] == 'x') or
 			(game[2][0] == 'x' and game[2][1] == 'x' and game[2][2] == 'x') or
