@@ -4,10 +4,13 @@ Write a python program to read multiple lines of text input and store the input 
 
 def main():
     num = int(input())
-    str_1=input()
-    str_2=input()
-    print(str_1)
-    print(str_2)
+    string1 = input()
+    string2 = input()
+    string3 = input()
+    print(string1)
+    print(string2)
+    print(string3)
+    
 
 
 if __name__ == '__main__':
