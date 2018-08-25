@@ -1,6 +1,6 @@
 from collections import counter
 
-def game_winner(matrix)
+def game_winner(matrix):
 	counter = counter()
 	flag = 0
 	for row in game:
@@ -35,13 +35,12 @@ def game_winner(matrix)
 	if abs(counter['x'] - counter['o'] == 0) or (counter['x'] - counter['o'] > 1)):
 		return "invalid input"
 
-def main()
-game =[]
-
-for _ in range(3):
-	row = list(map(int, input().split(' ')))
-	game.append(row)
-print(game_winner())
+def main():
+	game =[]
+	for _ in range(3):
+		row = list(map(int, input().split(' ')))
+		game.append(row)
+	print(game_winner(game))
 
 if __name__ == '__main__':
 	main()
