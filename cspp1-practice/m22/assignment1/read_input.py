@@ -3,9 +3,12 @@ Write a python program to read multiple lines of text input and store the input 
 '''
 
 def main():
-    str_line = input(n)
-    for str_line in n:
-    	print(str_line)
+	'''This is the program to print the inputs'''
+    num = int(input())
+    str_1 = input()
+    str_2 = input()
+    print(str_1)
+    print(str_2)
 
 
 if __name__ == '__main__':
