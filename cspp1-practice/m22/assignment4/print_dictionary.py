@@ -5,10 +5,16 @@ the key and frequency with a SPACE - SPACE.
 '''
 
 def print_dictionary(dictionary):
+	count = 0
     for _ in range(len(dictionary)):
     	for i in dictionary:
-    		if i in dictionary:
-    			print(i)
+    		if i not in dictionary:
+    			count +=1
+    		else:
+    			if i in dictionary:
+    			
+    		
+    			count +=1    		
     	
     		
 
