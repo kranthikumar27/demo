@@ -32,7 +32,7 @@ def game_winner(matrix):
 			(game[2][0] == 'o' and game[1][1] == 'o' and game[0][2] == 'o')):
 			return final
 
-	if abs(counter['x'] - counter['o'] == 0) or (counter['x'] - counter['o'] > 1)):
+	if abs((counter['x'] - counter['o'] == 0) or (counter['x'] - counter['o'] > 1)):
 		return "invalid input"
 
 def main():
