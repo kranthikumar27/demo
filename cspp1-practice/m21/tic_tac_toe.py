@@ -38,7 +38,7 @@ def game_winner(matrix):
 def main():
 	game =[]
 	for _ in range(3):
-		row = list(map(int, input().split(' ')))
+		row = list(map(str, input().split(' ')))
 		game.append(row)
 	print(game_winner(game))
 
