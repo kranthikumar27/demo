@@ -4,7 +4,7 @@ def game_winner(game):
 	counter = Counter()
 	flag = 0
 	for row in game:
-		for value in game:
+		for value in row:
 			if value in ('x', 'o', '.'):
 				counter[value] += 1
 			elif value not in ('x', 'o', '.'):
@@ -30,10 +30,10 @@ def game_winner(game):
 			(game[0][2] == 'o' and game[1][2] == 'o' and game[2][2] == 'o') or
 			(game[0][0] == 'o' and game[1][1] == 'o' and game[2][2] == 'o') or
 			(game[2][0] == 'o' and game[1][1] == 'o' and game[0][2] == 'o')):
-			return final
+			return 'o'
 
 	if abs((counter['x'] - counter['o'] == 0) or (counter['x'] - counter['o'] > 1)):
-		return "invalid input"
+		return "invalid game"
 
 def main():
 	game =[]
