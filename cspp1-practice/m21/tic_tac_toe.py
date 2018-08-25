@@ -31,6 +31,7 @@ def game_winner(game):
 			(game[0][0] == 'o' and game[1][1] == 'o' and game[2][2] == 'o') or
 			(game[2][0] == 'o' and game[1][1] == 'o' and game[0][2] == 'o')):
 			return 'o'
+		return 'draw'
 
 	if abs((counter['x'] - counter['o'] == 0) or (counter['x'] - counter['o'] > 1)):
 		return "invalid game"
