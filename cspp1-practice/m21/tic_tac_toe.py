@@ -39,7 +39,7 @@ def game_winner(game):
         return "invalid game"
 
 def main():
-    game =[]
+    game = []
     for _ in range(3):
         row = list(map(str, input().split(' ')))
         game.append(row)
