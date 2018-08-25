@@ -1,7 +1,7 @@
-from collections import counter
+from collections import Counter
 
 def game_winner(matrix):
-	counter = counter()
+	counter = Counter()
 	flag = 0
 	for row in game:
 		for value in game:
