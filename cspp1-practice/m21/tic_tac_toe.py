@@ -1,6 +1,6 @@
 from collections import Counter
 
-def game_winner(matrix):
+def game_winner(game):
 	counter = Counter()
 	flag = 0
 	for row in game:
