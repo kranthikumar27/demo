@@ -3,6 +3,7 @@
 from collections import Counter
 
 def game_winner(game):
+    ''' this method returns the winner'''
     counter = Counter()
     flag = 0
     for row in game:
@@ -39,6 +40,7 @@ def game_winner(game):
         return "invalid game"
 
 def main():
+    '''this is the main method'''
     game = []
     for _ in range(3):
         row = list(map(str, input().split(' ')))
