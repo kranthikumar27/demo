@@ -29,9 +29,21 @@ def check_sudoku(elements):
                 return "Invalid Sudoku:Duplicate values"
     except:
             return "Invalid Sudoku:Duplicate values"
-
-
-
+    # count = 0
+    # length = len(elements)
+    # temporary_list = []
+    # for column in range(length):
+    #     list_for_row = []
+    #     for value in range(length):
+    #         list_for_row.append(elements[value][column])
+    #     temporary_list.append(list_for_row)
+    # for column in temporary_list:
+    #     sorted_list = sorted(column)
+    #     if list1 == sorted_list:
+    #         count += 1
+    #     else:
+    #         return 0
+    #     return 
 
 def main():
     '''
