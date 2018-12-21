@@ -7,5 +7,5 @@ sudoku.py:25:12: C0200: Consider using enumerate instead of iterating with range
 sudoku.py:9:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
 
 ------------------------------------------------------------------
-Your code has been rated at 7.50/10 (previous run: 6.67/10, +0.83)
+Your code has been rated at 7.50/10 (previous run: 7.50/10, +0.00)
 
