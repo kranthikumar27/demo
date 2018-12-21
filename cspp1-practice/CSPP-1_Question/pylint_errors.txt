@@ -1,7 +1,5 @@
 ************* Module sudoku
 sudoku.py:31:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
-sudoku.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
-sudoku.py:35:0: C0303: Trailing whitespace (trailing-whitespace)
 sudoku.py:16:4: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
 sudoku.py:17:4: W0106: Expression "[elements[i:i + n] for i in range(0, len(elements), n)]" is assigned to nothing (expression-not-assigned)
 sudoku.py:30:4: W0702: No exception type(s) specified (bare-except)
@@ -9,5 +7,5 @@ sudoku.py:25:12: C0200: Consider using enumerate instead of iterating with range
 sudoku.py:9:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
 
 ------------------------------------------------------------------
-Your code has been rated at 6.67/10 (previous run: 6.67/10, +0.00)
+Your code has been rated at 7.50/10 (previous run: 6.67/10, +0.83)
 

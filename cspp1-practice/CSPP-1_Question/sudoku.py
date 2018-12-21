@@ -28,48 +28,9 @@ def check_sudoku(elements):
             if ''.join(list_1) != '123456789':
                 return "Invalid Sudoku:Duplicate values"
     except:
-            return "Invalid Sudoku:Duplicate values"
-
-            
-
-    
+            return "Invalid input"
 
 
-
-    # splitting : [line[i:i+n] for i in range(0, len(line), n)]
-    # row = []
-    # for each_row in sudoku:
-    #     row = each_row.copy()
-    #     row.sort()
-    #     if ''.join(row) != '123456789':
-    #         return False
-    # # print(sudoku)
-    # for i in range(9):
-    #     list_1 = []
-    #     for j in range(9):
-    #         # print(j,i)
-    #         # print(sudoku[j][i])
-    #         list_1.append(sudoku[j][i])
-    #     # print(list_1)
-    #     list_1.sort()
-    #     if ''.join(list_1) != '123456789':
-    #         return False
-    # for k in range(0, 7, 3):
-    #     # count_ofloops = 0
-    #     # while count_ofloops < 3:
-    #     for i in range(k, k+3):
-    #         list_2 = []
-    #         for col_ran in range(0, 7, 3):
-    #             for j in range(col_ran, col_ran+3):
-    #                 # print(sudoku[j][i])
-    #                 list_2.append(sudoku[j][i])
-    #         # print(list_2)
-    #         list_2.sort()
-    #         # print(list_2)
-    #         if ''.join(list_2) != '123456789':
-    #             return False
-    #         # count_ofloops += 1
-    # return True
 
 
 def main():
