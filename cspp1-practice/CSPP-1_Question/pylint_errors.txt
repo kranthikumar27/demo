@@ -1,12 +1,43 @@
 ************* Module sudoku
-sudoku.py:31:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
-sudoku.py:46:16: C0303: Trailing whitespace (trailing-whitespace)
-sudoku.py:16:4: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
-sudoku.py:17:4: W0106: Expression "[elements[i:i + n] for i in range(0, len(elements), n)]" is assigned to nothing (expression-not-assigned)
-sudoku.py:30:4: W0702: No exception type(s) specified (bare-except)
-sudoku.py:25:12: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
-sudoku.py:9:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+sudoku.py:12:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:13:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:14:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:15:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:20:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:25:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:31:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:38:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:44:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:44:11: C0326: Exactly one space required before assignment
+	input_data= str(input())
+           ^ (bad-whitespace)
+sudoku.py:45:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:45:5: C0326: Exactly one space required around assignment
+	data=list(input_data)
+     ^ (bad-whitespace)
+sudoku.py:46:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:47:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+sudoku.py:49:0: C0305: Trailing newlines (trailing-newlines)
+sudoku.py:11:0: C0103: Function name "validateSudoku" doesn't conform to snake_case naming style (invalid-name)
+sudoku.py:11:0: C0111: Missing function docstring (missing-docstring)
+sudoku.py:12:8: E0602: Undefined variable 'data' (undefined-variable)
+sudoku.py:14:15: E0602: Undefined variable 'data' (undefined-variable)
+sudoku.py:11:19: W0613: Unused argument 'sudoku' (unused-argument)
+sudoku.py:18:-1: W0105: String statement has no effect (pointless-string-statement)
+sudoku.py:19:0: C0103: Function name "getRowValues" doesn't conform to snake_case naming style (invalid-name)
+sudoku.py:19:0: C0111: Missing function docstring (missing-docstring)
+sudoku.py:23:-1: W0105: String statement has no effect (pointless-string-statement)
+sudoku.py:24:0: C0103: Function name "getColumnValues" doesn't conform to snake_case naming style (invalid-name)
+sudoku.py:24:0: C0111: Missing function docstring (missing-docstring)
+sudoku.py:29:-1: W0105: String statement has no effect (pointless-string-statement)
+sudoku.py:30:0: C0103: Function name "getGridValues" doesn't conform to snake_case naming style (invalid-name)
+sudoku.py:30:0: C0111: Missing function docstring (missing-docstring)
+sudoku.py:36:-1: W0105: String statement has no effect (pointless-string-statement)
+sudoku.py:37:0: C0103: Function name "possibleValues" doesn't conform to snake_case naming style (invalid-name)
+sudoku.py:37:0: C0111: Missing function docstring (missing-docstring)
+sudoku.py:42:-1: W0105: String statement has no effect (pointless-string-statement)
+sudoku.py:43:0: C0111: Missing function docstring (missing-docstring)
 
-------------------------------------------------------------------
-Your code has been rated at 7.08/10 (previous run: 7.50/10, -0.42)
+--------------------------------------------------------------------
+Your code has been rated at -8.26/10 (previous run: 7.08/10, -15.34)
 

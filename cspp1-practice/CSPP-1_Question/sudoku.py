@@ -1,57 +1,49 @@
-'''
-    Sudoku is a logic-based, combinatorial number-placement puzzle.
-    The objective is to fill a 9×9 grid with digits so that
-    each column, each row, and each of the nine 3×3 subgrids that compose the grid
-    contains all of the digits from 1 to 9.
-    Complete the check_sudoku function to check if the given grid
-    satisfies all the sudoku rules given in the statement above.
-'''
-def check_sudoku(elements):
-    '''
-        Your solution goes here. You may add other helper functions as needed.
-        The function has to return True for a valid sudoku grid and false otherwise
-    '''
-    if len(elements) < 81 or len(elements) > 81:
-        return "Invalid input"
-    n = 9
-    [elements[i:i+n] for i in range(0, len(elements), n)]
-    try:
-        for i in range(len(elements)):
-            temp = i.copy()
-            list_1 = []
-            int(temp.sort)
-            if ''.join(temp) != '123456789':
-                return "Invalid Sudoku:Duplicate values"
-            for j in range(len(elements)):
-                list_1.append(elements[j][i])
-            list_1.sort()
-            if ''.join(list_1) != '123456789':
-                return "Invalid Sudoku:Duplicate values"
-    except:
-            return "Invalid Sudoku:Duplicate values"
-    # count = 0
-    # length = len(elements)
-    # temporary_list = []
-    # for column in range(length):
-    #     list_for_row = []
-    #     for value in range(length):
-    #         list_for_row.append(elements[value][column])
-    #     temporary_list.append(list_for_row)
-    # for column in temporary_list:
-    #     sorted_list = sorted(column)
-    #     if list1 == sorted_list:
-    #         count += 1
-    #     else:
-    #         return 0
-    #     return 
+"""
+In this method :
+ * Check there are only 81 values
+ * iterate through each row in the sudoku and if you find any duplicate values
+ 	raise an exception
+ * iterate through each column in the sudoku and if you find any duplicate values
+	raise an exception
+ * iterate through each subgrid(3x3) in the sudoku and if you find any duplicate values
+	raise an exception
+"""
+def validateSudoku(sudoku):
+	if len(data) != 81:
+		raise Exception("Invalid Input")
+	if '.' not in data:
+		raise Exception("Given sudoku is solved")
+"""
+This  method should retunn all the values present in the ith row
+"""
+def getRowValues():
+	pass
+"""
+This  method should retunn all the values present in the ith column
+"""
+def getColumnValues():
+	pass
 
+"""
+This  method should retunn all the values present in the i,j th subgrid
+"""
+def getGridValues():
+	pass
+"""
+This method should collect all the available values present for a "."
+You should get the values present in row,column,grid.
+Then you should return the values that doesnot exist in the previous values.
+"""
+def possibleValues():
+	pass
+"""
+Read the input and store the values in an appropriate data sturcture.
+Then travese through each value, if you get a "." then collect the possible values
+"""
 def main():
-    '''
-        main function to read input sudoku from console
-        call check_sudoku function and print the result to console
-    '''
-    elements = str(input())
-    print(check_sudoku(elements))
+	input_data= str(input())
+	data=list(input_data)
+	print(data)
+	validateSudoku(input_data)
 
-if __name__ == '__main__':
-    main()
+
