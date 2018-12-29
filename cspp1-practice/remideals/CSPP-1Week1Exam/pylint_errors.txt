@@ -1,0 +1,26 @@
+************* Module webpage
+webpage.py:2:9: C0326: Exactly one space required around assignment
+    lines=color.split("back")
+         ^ (bad-whitespace)
+webpage.py:4:15: C0326: Exactly one space required around assignment
+    startingtag="ground-color:\""
+               ^ (bad-whitespace)
+webpage.py:5:10: C0326: Exactly one space required around assignment
+    endtag=";\""
+          ^ (bad-whitespace)
+webpage.py:6:11: C0326: Exactly one space required around assignment
+    bgcolor=[]
+           ^ (bad-whitespace)
+webpage.py:48:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
+webpage.py:1:0: C0103: Function name "getBackground" doesn't conform to snake_case naming style (invalid-name)
+webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:13:16: W0612: Unused variable 'items' (unused-variable)
+webpage.py:20:0: C0103: Function name "getImageUrl" doesn't conform to snake_case naming style (invalid-name)
+webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:20:16: W0613: Unused argument 'urls' (unused-argument)
+webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 3.81/10 (previous run: 5.91/10, -2.10)
+
