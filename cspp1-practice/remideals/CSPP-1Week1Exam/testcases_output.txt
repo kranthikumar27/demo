@@ -69,13 +69,11 @@ https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 
 Your Output: 
 Traceback (most recent call last):
-  File "webpage.py", line 48, in <module>
+  File "webpage.py", line 49, in <module>
     main()
-  File "webpage.py", line 44, in main
+  File "webpage.py", line 45, in main
     background(data)
-  File "webpage.py", line 16, in background
-    print(answer)
-UnboundLocalError: local variable 'answer' referenced before assignment
+NameError: name 'background' is not defined
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -104,13 +102,11 @@ transparent
 
 Your Output: 
 Traceback (most recent call last):
-  File "webpage.py", line 48, in <module>
+  File "webpage.py", line 49, in <module>
     main()
-  File "webpage.py", line 44, in main
+  File "webpage.py", line 45, in main
     background(data)
-  File "webpage.py", line 16, in background
-    print(answer)
-UnboundLocalError: local variable 'answer' referenced before assignment
+NameError: name 'background' is not defined
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -182,12 +178,10 @@ Events
 
 Your Output: 
 Traceback (most recent call last):
-  File "webpage.py", line 48, in <module>
+  File "webpage.py", line 49, in <module>
     main()
-  File "webpage.py", line 44, in main
+  File "webpage.py", line 45, in main
     background(data)
-  File "webpage.py", line 16, in background
-    print(answer)
-UnboundLocalError: local variable 'answer' referenced before assignment
+NameError: name 'background' is not defined
 ----------------------------------------
 
