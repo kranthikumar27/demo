@@ -8,17 +8,18 @@ webpage.py:25:9: C0326: Exactly one space required around assignment
 webpage.py:26:11: C0326: Exactly one space required around assignment
     counter=0
            ^ (bad-whitespace)
-webpage.py:37:23: C0326: Exactly one space required around assignment
-                counter=counter+1
-                       ^ (bad-whitespace)
+webpage.py:36:25: C0303: Trailing whitespace (trailing-whitespace)
+webpage.py:36:15: C0326: Exactly one space required around assignment
+        counter=counter+1    
+               ^ (bad-whitespace)
+webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
 webpage.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:41:0: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:50:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:49:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:20:0: C0103: Function name "getImageUrl" doesn't conform to snake_case naming style (invalid-name)
 webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:42:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 5.22/10 (previous run: 5.00/10, +0.22)
+Your code has been rated at 4.55/10 (previous run: 5.22/10, -0.67)
 

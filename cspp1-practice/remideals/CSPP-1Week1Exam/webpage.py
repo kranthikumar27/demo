@@ -33,10 +33,9 @@ def getImageUrl(urls):
                 items = items[start+len(startingtag):]
                 end = items.index(endtag)
                 result = items[:end]
-                print("kranthi")
-                counter=counter+1
-                print(result)
-                print(counter)
+        counter=counter+1    
+        print(result)
+        print(counter)
         
     
 def main():
