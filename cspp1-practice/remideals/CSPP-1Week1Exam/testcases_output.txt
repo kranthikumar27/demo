@@ -129,6 +129,14 @@ https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 //me.effectivemeasure.net/em_image
 ./webpage5_files/pixel
 60
+Traceback (most recent call last):
+  File "webpage.py", line 48, in <module>
+    main()
+  File "webpage.py", line 44, in main
+    getBackground(data)
+  File "webpage.py", line 16, in getBackground
+    print(results)
+UnboundLocalError: local variable 'results' referenced before assignment
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -217,6 +225,14 @@ https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 //me.effectivemeasure.net/em_image
 ./webpage5_files/pixel
 60
+Traceback (most recent call last):
+  File "webpage.py", line 48, in <module>
+    main()
+  File "webpage.py", line 44, in main
+    getBackground(data)
+  File "webpage.py", line 16, in getBackground
+    print(results)
+UnboundLocalError: local variable 'results' referenced before assignment
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -348,5 +364,13 @@ https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 //me.effectivemeasure.net/em_image
 ./webpage5_files/pixel
 60
+Traceback (most recent call last):
+  File "webpage.py", line 48, in <module>
+    main()
+  File "webpage.py", line 44, in main
+    getBackground(data)
+  File "webpage.py", line 16, in getBackground
+    print(results)
+UnboundLocalError: local variable 'results' referenced before assignment
 ----------------------------------------
 
