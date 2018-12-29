@@ -11,16 +11,16 @@ webpage.py:5:10: C0326: Exactly one space required around assignment
 webpage.py:6:11: C0326: Exactly one space required around assignment
     bgcolor=[]
            ^ (bad-whitespace)
-webpage.py:49:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:50:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:1:0: C0103: Function name "getBackground" doesn't conform to snake_case naming style (invalid-name)
 webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:13:16: W0612: Unused variable 'items' (unused-variable)
-webpage.py:21:0: C0103: Function name "getImageUrl" doesn't conform to snake_case naming style (invalid-name)
-webpage.py:21:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:21:16: W0613: Unused argument 'urls' (unused-argument)
-webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:14:16: W0612: Unused variable 'items' (unused-variable)
+webpage.py:22:0: C0103: Function name "getImageUrl" doesn't conform to snake_case naming style (invalid-name)
+webpage.py:22:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:22:16: W0613: Unused argument 'urls' (unused-argument)
+webpage.py:42:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 4.09/10 (previous run: 3.81/10, +0.28)
+Your code has been rated at 4.35/10 (previous run: 4.09/10, +0.26)
 

@@ -7,6 +7,7 @@ def getBackground(color):
     for i in line:
         bgcolor.append(i)
         # print(bgcolor)
+        print("kranthi")
         for j in bgcolor:
             if startingtag in j:
                 start = j.index(startingtag)
