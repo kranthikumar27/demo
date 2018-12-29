@@ -69,26 +69,32 @@ https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 
 Your Output: 
 
+1
 
 181
+3
 
 181
 unprocessed
+6
 
 181
 unprocessed
 wplogo
+10
 
 181
 unprocessed
 wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
+15
 
 181
 unprocessed
 wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
 ./webpage5_files/INVbaltimore_SG37.jpg
+21
 
 181
 unprocessed
@@ -96,6 +102,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
 ./webpage5_files/INVbaltimore_SG37.jpg
 ./webpage5_files/INVbaltimore_SG07.jpg
+28
 
 181
 unprocessed
@@ -104,6 +111,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG37.jpg
 ./webpage5_files/INVbaltimore_SG07.jpg
 ./webpage5_files/INVbaltimore_SG18.jpg
+36
 
 181
 unprocessed
@@ -113,6 +121,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG07.jpg
 ./webpage5_files/INVbaltimore_SG18.jpg
 ./webpage5_files/crop_90CVH_6163.jpg
+45
 
 181
 unprocessed
@@ -123,6 +132,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG18.jpg
 ./webpage5_files/crop_90CVH_6163.jpg
 ./webpage5_files/crop_90CVH_6054.jpg
+55
 
 181
 unprocessed
@@ -134,6 +144,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6163.jpg
 ./webpage5_files/crop_90CVH_6054.jpg
 ./webpage5_files/crop_90CVH_6453.jpg
+66
 
 181
 unprocessed
@@ -146,6 +157,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6054.jpg
 ./webpage5_files/crop_90CVH_6453.jpg
 ./webpage5_files/crop_90CVH_6218.jpg
+78
 
 181
 unprocessed
@@ -159,6 +171,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6453.jpg
 ./webpage5_files/crop_90CVH_6218.jpg
 ./webpage5_files/crop_90CVH_6020.jpg
+91
 
 181
 unprocessed
@@ -173,6 +186,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6218.jpg
 ./webpage5_files/crop_90CVH_6020.jpg
 ./webpage5_files/post_reports_400x400.jpg
+105
 
 181
 unprocessed
@@ -188,6 +202,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6020.jpg
 ./webpage5_files/post_reports_400x400.jpg
 ./webpage5_files/twp-logo-300x46.png
+120
 
 181
 unprocessed
@@ -204,6 +219,7 @@ wplogo
 ./webpage5_files/post_reports_400x400.jpg
 ./webpage5_files/twp-logo-300x46.png
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
+136
 
 181
 unprocessed
@@ -221,6 +237,7 @@ wplogo
 ./webpage5_files/twp-logo-300x46.png
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
+153
 
 181
 unprocessed
@@ -239,6 +256,7 @@ wplogo
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
+171
 
 181
 unprocessed
@@ -258,6 +276,7 @@ wplogo
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
+190
 
 181
 unprocessed
@@ -278,6 +297,7 @@ wplogo
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
+210
 
 181
 unprocessed
@@ -299,6 +319,7 @@ wplogo
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
+231
 
 181
 unprocessed
@@ -321,6 +342,7 @@ wplogo
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
+253
 
 181
 unprocessed
@@ -344,6 +366,7 @@ wplogo
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
+276
 
 181
 unprocessed
@@ -368,6 +391,7 @@ wplogo
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
+300
 
 181
 unprocessed
@@ -393,6 +417,7 @@ wplogo
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
+325
 
 181
 unprocessed
@@ -419,6 +444,7 @@ wplogo
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
+351
 
 181
 unprocessed
@@ -446,6 +472,7 @@ wplogo
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
+378
 
 181
 unprocessed
@@ -474,6 +501,7 @@ wplogo
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
+406
 
 181
 unprocessed
@@ -503,6 +531,7 @@ wplogo
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
+435
 
 181
 unprocessed
@@ -533,6 +562,7 @@ wplogo
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
+465
 
 181
 unprocessed
@@ -564,6 +594,7 @@ wplogo
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
 ./webpage5_files/COPSHOOTN1005.jpg
+496
 
 181
 unprocessed
@@ -596,6 +627,7 @@ wplogo
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
 ./webpage5_files/COPSHOOTN1005.jpg
 ./webpage5_files/AFP_1BT6Y5.jpg
+528
 
 181
 unprocessed
@@ -629,6 +661,7 @@ wplogo
 ./webpage5_files/COPSHOOTN1005.jpg
 ./webpage5_files/AFP_1BT6Y5.jpg
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
+561
 
 181
 unprocessed
@@ -663,6 +696,7 @@ wplogo
 ./webpage5_files/AFP_1BT6Y5.jpg
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
+595
 
 181
 unprocessed
@@ -698,6 +732,7 @@ wplogo
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
+630
 
 181
 unprocessed
@@ -734,6 +769,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
+666
 
 181
 unprocessed
@@ -771,6 +807,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
+703
 
 181
 unprocessed
@@ -809,6 +846,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
+741
 
 181
 unprocessed
@@ -848,6 +886,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
+780
 
 181
 unprocessed
@@ -888,6 +927,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
+820
 
 181
 unprocessed
@@ -929,6 +969,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
+861
 
 181
 unprocessed
@@ -971,6 +1012,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
+903
 
 181
 unprocessed
@@ -1014,6 +1056,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
+946
 
 181
 unprocessed
@@ -1058,6 +1101,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
 Today&#39;s paper
+990
 
 181
 unprocessed
@@ -1103,6 +1147,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
 Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
+1035
 
 181
 unprocessed
@@ -1149,6 +1194,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
+1081
 
 181
 unprocessed
@@ -1196,6 +1242,7 @@ Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
+1128
 
 181
 unprocessed
@@ -1244,6 +1291,7 @@ Today&#39;s paper
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
 ./webpage5_files/confidential-tips-70.png
+1176
 
 181
 unprocessed
@@ -1293,6 +1341,7 @@ Today&#39;s paper
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
 ./webpage5_files/confidential-tips-70.png
 ./webpage5_files/WPBS_KP_hero.jpg
+1225
 
 181
 unprocessed
@@ -1343,6 +1392,7 @@ Today&#39;s paper
 ./webpage5_files/confidential-tips-70.png
 ./webpage5_files/WPBS_KP_hero.jpg
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
+1275
 
 181
 unprocessed
@@ -1394,6 +1444,7 @@ Today&#39;s paper
 ./webpage5_files/WPBS_KP_hero.jpg
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
+1326
 
 181
 unprocessed
@@ -1446,6 +1497,7 @@ Today&#39;s paper
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
+1378
 
 181
 unprocessed
@@ -1499,6 +1551,7 @@ Today&#39;s paper
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
 ./webpage5_files/AFP_1BG82F.jpg
+1431
 
 181
 unprocessed
@@ -1553,6 +1606,7 @@ Today&#39;s paper
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
 ./webpage5_files/AFP_1BG82F.jpg
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
+1485
 
 181
 unprocessed
@@ -1608,6 +1662,7 @@ Today&#39;s paper
 ./webpage5_files/AFP_1BG82F.jpg
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
+1540
 
 181
 unprocessed
@@ -1664,6 +1719,7 @@ Today&#39;s paper
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/Filler-Corn07.JPG
+1596
 
 181
 unprocessed
@@ -1721,6 +1777,7 @@ Today&#39;s paper
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/Filler-Corn07.JPG
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
+1653
 
 181
 unprocessed
@@ -1779,6 +1836,7 @@ Today&#39;s paper
 ./webpage5_files/Filler-Corn07.JPG
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
+1711
 
 181
 unprocessed
@@ -1838,6 +1896,7 @@ Today&#39;s paper
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
 ./webpage5_files/GettyImages-1068135686.JPG
+1770
 
 181
 unprocessed
@@ -1898,6 +1957,7 @@ Today&#39;s paper
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
 ./webpage5_files/GettyImages-1068135686.JPG
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
+1830
 
 181
 unprocessed
@@ -1959,6 +2019,7 @@ Today&#39;s paper
 ./webpage5_files/GettyImages-1068135686.JPG
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
+1891
 
 181
 unprocessed
@@ -2021,6 +2082,7 @@ Today&#39;s paper
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
+1953
 
 181
 unprocessed
@@ -2084,6 +2146,7 @@ Today&#39;s paper
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/jack-odwyer-crop.JPG
+2016
 
 181
 unprocessed
@@ -2148,6 +2211,7 @@ Today&#39;s paper
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/jack-odwyer-crop.JPG
 https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
+2080
 
 181
 unprocessed
@@ -2213,6 +2277,7 @@ Today&#39;s paper
 ./webpage5_files/jack-odwyer-crop.JPG
 https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 //me.effectivemeasure.net/em_image
+2145
 
 181
 unprocessed
@@ -2308,26 +2373,32 @@ transparent
 
 Your Output: 
 
+1
 
 181
+3
 
 181
 unprocessed
+6
 
 181
 unprocessed
 wplogo
+10
 
 181
 unprocessed
 wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
+15
 
 181
 unprocessed
 wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
 ./webpage5_files/INVbaltimore_SG37.jpg
+21
 
 181
 unprocessed
@@ -2335,6 +2406,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
 ./webpage5_files/INVbaltimore_SG37.jpg
 ./webpage5_files/INVbaltimore_SG07.jpg
+28
 
 181
 unprocessed
@@ -2343,6 +2415,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG37.jpg
 ./webpage5_files/INVbaltimore_SG07.jpg
 ./webpage5_files/INVbaltimore_SG18.jpg
+36
 
 181
 unprocessed
@@ -2352,6 +2425,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG07.jpg
 ./webpage5_files/INVbaltimore_SG18.jpg
 ./webpage5_files/crop_90CVH_6163.jpg
+45
 
 181
 unprocessed
@@ -2362,6 +2436,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG18.jpg
 ./webpage5_files/crop_90CVH_6163.jpg
 ./webpage5_files/crop_90CVH_6054.jpg
+55
 
 181
 unprocessed
@@ -2373,6 +2448,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6163.jpg
 ./webpage5_files/crop_90CVH_6054.jpg
 ./webpage5_files/crop_90CVH_6453.jpg
+66
 
 181
 unprocessed
@@ -2385,6 +2461,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6054.jpg
 ./webpage5_files/crop_90CVH_6453.jpg
 ./webpage5_files/crop_90CVH_6218.jpg
+78
 
 181
 unprocessed
@@ -2398,6 +2475,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6453.jpg
 ./webpage5_files/crop_90CVH_6218.jpg
 ./webpage5_files/crop_90CVH_6020.jpg
+91
 
 181
 unprocessed
@@ -2412,6 +2490,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6218.jpg
 ./webpage5_files/crop_90CVH_6020.jpg
 ./webpage5_files/post_reports_400x400.jpg
+105
 
 181
 unprocessed
@@ -2427,6 +2506,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6020.jpg
 ./webpage5_files/post_reports_400x400.jpg
 ./webpage5_files/twp-logo-300x46.png
+120
 
 181
 unprocessed
@@ -2443,6 +2523,7 @@ wplogo
 ./webpage5_files/post_reports_400x400.jpg
 ./webpage5_files/twp-logo-300x46.png
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
+136
 
 181
 unprocessed
@@ -2460,6 +2541,7 @@ wplogo
 ./webpage5_files/twp-logo-300x46.png
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
+153
 
 181
 unprocessed
@@ -2478,6 +2560,7 @@ wplogo
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
+171
 
 181
 unprocessed
@@ -2497,6 +2580,7 @@ wplogo
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
+190
 
 181
 unprocessed
@@ -2517,6 +2601,7 @@ wplogo
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
+210
 
 181
 unprocessed
@@ -2538,6 +2623,7 @@ wplogo
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
+231
 
 181
 unprocessed
@@ -2560,6 +2646,7 @@ wplogo
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
+253
 
 181
 unprocessed
@@ -2583,6 +2670,7 @@ wplogo
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
+276
 
 181
 unprocessed
@@ -2607,6 +2695,7 @@ wplogo
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
+300
 
 181
 unprocessed
@@ -2632,6 +2721,7 @@ wplogo
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
+325
 
 181
 unprocessed
@@ -2658,6 +2748,7 @@ wplogo
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
+351
 
 181
 unprocessed
@@ -2685,6 +2776,7 @@ wplogo
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
+378
 
 181
 unprocessed
@@ -2713,6 +2805,7 @@ wplogo
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
+406
 
 181
 unprocessed
@@ -2742,6 +2835,7 @@ wplogo
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
+435
 
 181
 unprocessed
@@ -2772,6 +2866,7 @@ wplogo
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
+465
 
 181
 unprocessed
@@ -2803,6 +2898,7 @@ wplogo
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
 ./webpage5_files/COPSHOOTN1005.jpg
+496
 
 181
 unprocessed
@@ -2835,6 +2931,7 @@ wplogo
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
 ./webpage5_files/COPSHOOTN1005.jpg
 ./webpage5_files/AFP_1BT6Y5.jpg
+528
 
 181
 unprocessed
@@ -2868,6 +2965,7 @@ wplogo
 ./webpage5_files/COPSHOOTN1005.jpg
 ./webpage5_files/AFP_1BT6Y5.jpg
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
+561
 
 181
 unprocessed
@@ -2902,6 +3000,7 @@ wplogo
 ./webpage5_files/AFP_1BT6Y5.jpg
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
+595
 
 181
 unprocessed
@@ -2937,6 +3036,7 @@ wplogo
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
+630
 
 181
 unprocessed
@@ -2973,6 +3073,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
+666
 
 181
 unprocessed
@@ -3010,6 +3111,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
+703
 
 181
 unprocessed
@@ -3048,6 +3150,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
+741
 
 181
 unprocessed
@@ -3087,6 +3190,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
+780
 
 181
 unprocessed
@@ -3127,6 +3231,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
+820
 
 181
 unprocessed
@@ -3168,6 +3273,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
+861
 
 181
 unprocessed
@@ -3210,6 +3316,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
+903
 
 181
 unprocessed
@@ -3253,6 +3360,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
+946
 
 181
 unprocessed
@@ -3297,6 +3405,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
 Today&#39;s paper
+990
 
 181
 unprocessed
@@ -3342,6 +3451,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
 Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
+1035
 
 181
 unprocessed
@@ -3388,6 +3498,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
+1081
 
 181
 unprocessed
@@ -3435,6 +3546,7 @@ Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
+1128
 
 181
 unprocessed
@@ -3483,6 +3595,7 @@ Today&#39;s paper
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
 ./webpage5_files/confidential-tips-70.png
+1176
 
 181
 unprocessed
@@ -3532,6 +3645,7 @@ Today&#39;s paper
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
 ./webpage5_files/confidential-tips-70.png
 ./webpage5_files/WPBS_KP_hero.jpg
+1225
 
 181
 unprocessed
@@ -3582,6 +3696,7 @@ Today&#39;s paper
 ./webpage5_files/confidential-tips-70.png
 ./webpage5_files/WPBS_KP_hero.jpg
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
+1275
 
 181
 unprocessed
@@ -3633,6 +3748,7 @@ Today&#39;s paper
 ./webpage5_files/WPBS_KP_hero.jpg
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
+1326
 
 181
 unprocessed
@@ -3685,6 +3801,7 @@ Today&#39;s paper
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
+1378
 
 181
 unprocessed
@@ -3738,6 +3855,7 @@ Today&#39;s paper
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
 ./webpage5_files/AFP_1BG82F.jpg
+1431
 
 181
 unprocessed
@@ -3792,6 +3910,7 @@ Today&#39;s paper
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
 ./webpage5_files/AFP_1BG82F.jpg
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
+1485
 
 181
 unprocessed
@@ -3847,6 +3966,7 @@ Today&#39;s paper
 ./webpage5_files/AFP_1BG82F.jpg
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
+1540
 
 181
 unprocessed
@@ -3903,6 +4023,7 @@ Today&#39;s paper
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/Filler-Corn07.JPG
+1596
 
 181
 unprocessed
@@ -3960,6 +4081,7 @@ Today&#39;s paper
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/Filler-Corn07.JPG
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
+1653
 
 181
 unprocessed
@@ -4018,6 +4140,7 @@ Today&#39;s paper
 ./webpage5_files/Filler-Corn07.JPG
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
+1711
 
 181
 unprocessed
@@ -4077,6 +4200,7 @@ Today&#39;s paper
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
 ./webpage5_files/GettyImages-1068135686.JPG
+1770
 
 181
 unprocessed
@@ -4137,6 +4261,7 @@ Today&#39;s paper
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
 ./webpage5_files/GettyImages-1068135686.JPG
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
+1830
 
 181
 unprocessed
@@ -4198,6 +4323,7 @@ Today&#39;s paper
 ./webpage5_files/GettyImages-1068135686.JPG
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
+1891
 
 181
 unprocessed
@@ -4260,6 +4386,7 @@ Today&#39;s paper
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
+1953
 
 181
 unprocessed
@@ -4323,6 +4450,7 @@ Today&#39;s paper
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/jack-odwyer-crop.JPG
+2016
 
 181
 unprocessed
@@ -4387,6 +4515,7 @@ Today&#39;s paper
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/jack-odwyer-crop.JPG
 https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
+2080
 
 181
 unprocessed
@@ -4452,6 +4581,7 @@ Today&#39;s paper
 ./webpage5_files/jack-odwyer-crop.JPG
 https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 //me.effectivemeasure.net/em_image
+2145
 
 181
 unprocessed
@@ -4590,26 +4720,32 @@ Events
 
 Your Output: 
 
+1
 
 181
+3
 
 181
 unprocessed
+6
 
 181
 unprocessed
 wplogo
+10
 
 181
 unprocessed
 wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
+15
 
 181
 unprocessed
 wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
 ./webpage5_files/INVbaltimore_SG37.jpg
+21
 
 181
 unprocessed
@@ -4617,6 +4753,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG33.jpg
 ./webpage5_files/INVbaltimore_SG37.jpg
 ./webpage5_files/INVbaltimore_SG07.jpg
+28
 
 181
 unprocessed
@@ -4625,6 +4762,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG37.jpg
 ./webpage5_files/INVbaltimore_SG07.jpg
 ./webpage5_files/INVbaltimore_SG18.jpg
+36
 
 181
 unprocessed
@@ -4634,6 +4772,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG07.jpg
 ./webpage5_files/INVbaltimore_SG18.jpg
 ./webpage5_files/crop_90CVH_6163.jpg
+45
 
 181
 unprocessed
@@ -4644,6 +4783,7 @@ wplogo
 ./webpage5_files/INVbaltimore_SG18.jpg
 ./webpage5_files/crop_90CVH_6163.jpg
 ./webpage5_files/crop_90CVH_6054.jpg
+55
 
 181
 unprocessed
@@ -4655,6 +4795,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6163.jpg
 ./webpage5_files/crop_90CVH_6054.jpg
 ./webpage5_files/crop_90CVH_6453.jpg
+66
 
 181
 unprocessed
@@ -4667,6 +4808,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6054.jpg
 ./webpage5_files/crop_90CVH_6453.jpg
 ./webpage5_files/crop_90CVH_6218.jpg
+78
 
 181
 unprocessed
@@ -4680,6 +4822,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6453.jpg
 ./webpage5_files/crop_90CVH_6218.jpg
 ./webpage5_files/crop_90CVH_6020.jpg
+91
 
 181
 unprocessed
@@ -4694,6 +4837,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6218.jpg
 ./webpage5_files/crop_90CVH_6020.jpg
 ./webpage5_files/post_reports_400x400.jpg
+105
 
 181
 unprocessed
@@ -4709,6 +4853,7 @@ wplogo
 ./webpage5_files/crop_90CVH_6020.jpg
 ./webpage5_files/post_reports_400x400.jpg
 ./webpage5_files/twp-logo-300x46.png
+120
 
 181
 unprocessed
@@ -4725,6 +4870,7 @@ wplogo
 ./webpage5_files/post_reports_400x400.jpg
 ./webpage5_files/twp-logo-300x46.png
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
+136
 
 181
 unprocessed
@@ -4742,6 +4888,7 @@ wplogo
 ./webpage5_files/twp-logo-300x46.png
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
+153
 
 181
 unprocessed
@@ -4760,6 +4907,7 @@ wplogo
 ./webpage5_files/JCXGFBAKFUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
+171
 
 181
 unprocessed
@@ -4779,6 +4927,7 @@ wplogo
 ./webpage5_files/2SRCZGQKEII6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
+190
 
 181
 unprocessed
@@ -4799,6 +4948,7 @@ wplogo
 ./webpage5_files/EJSWZPQKBUI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
+210
 
 181
 unprocessed
@@ -4820,6 +4970,7 @@ wplogo
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI.jpg
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
+231
 
 181
 unprocessed
@@ -4842,6 +4993,7 @@ wplogo
 ./webpage5_files/XLHFA7CMPUI6RNZFSLEJ7Y6KJQ.jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
+253
 
 181
 unprocessed
@@ -4865,6 +5017,7 @@ wplogo
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
+276
 
 181
 unprocessed
@@ -4889,6 +5042,7 @@ wplogo
 ./webpage5_files/crop_90Guatemala_Child_Dead_Border_41957-878ac.jpg
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
+300
 
 181
 unprocessed
@@ -4914,6 +5068,7 @@ wplogo
 ./webpage5_files/ELAWR3QKKII6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
+325
 
 181
 unprocessed
@@ -4940,6 +5095,7 @@ wplogo
 ./webpage5_files/56WDC5AEOQI6TEJCQLUY7EPON4.jpg
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
+351
 
 181
 unprocessed
@@ -4967,6 +5123,7 @@ wplogo
 ./webpage5_files/NJJDAFHZXMI6RBSCZFYYUJLMXU.jpg
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
+378
 
 181
 unprocessed
@@ -4995,6 +5152,7 @@ wplogo
 ./webpage5_files/crop_90KEY-Britain_Obit_Sister_Wendy_Beckett_71782.jpg-b098b.jpg
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
+406
 
 181
 unprocessed
@@ -5024,6 +5182,7 @@ wplogo
 ./webpage5_files/FZQHN5YG6I3B7FVZJOMWAMMQYU.jpg
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
+435
 
 181
 unprocessed
@@ -5054,6 +5213,7 @@ wplogo
 ./webpage5_files/BFCYE5AD7EI6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
+465
 
 181
 unprocessed
@@ -5085,6 +5245,7 @@ wplogo
 ./webpage5_files/2300-shutdown-what-closes-promo.jpg
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
 ./webpage5_files/COPSHOOTN1005.jpg
+496
 
 181
 unprocessed
@@ -5117,6 +5278,7 @@ wplogo
 ./webpage5_files/HPSPJGQHVYI6TCHDTCND4RLIEA.jpg
 ./webpage5_files/COPSHOOTN1005.jpg
 ./webpage5_files/AFP_1BT6Y5.jpg
+528
 
 181
 unprocessed
@@ -5150,6 +5312,7 @@ wplogo
 ./webpage5_files/COPSHOOTN1005.jpg
 ./webpage5_files/AFP_1BT6Y5.jpg
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
+561
 
 181
 unprocessed
@@ -5184,6 +5347,7 @@ wplogo
 ./webpage5_files/AFP_1BT6Y5.jpg
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
+595
 
 181
 unprocessed
@@ -5219,6 +5383,7 @@ wplogo
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
+630
 
 181
 unprocessed
@@ -5255,6 +5420,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-play
 powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
+666
 
 181
 unprocessed
@@ -5292,6 +5458,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_736052d2ae8049b48161d25d930d49ce_name_2018_12_26T194744Z_242160190_RC1175CD5BE0_RTRMADP_3_USA_TRUMP.jpg
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
+703
 
 181
 unprocessed
@@ -5330,6 +5497,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_8c479738cd4d405d8b403e3aa0e0ca2a_name_thelistvideothumb.jpg
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
+741
 
 181
 unprocessed
@@ -5369,6 +5537,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_cea9ae8faaa246be912b6cd509aa761c_name_20181231_CRAZIEST_MOMENTS_V6.png
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
+780
 
 181
 unprocessed
@@ -5409,6 +5578,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/t_0c0633c768b94ff1a7e2a29fe0375c8d_name_D29A0250_Copy_01_00_04_21_17_Still002.jpg
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
+820
 
 181
 unprocessed
@@ -5450,6 +5620,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/VJCQL2H6MEI6RIL6CYVXCLUPYI.jpg
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
+861
 
 181
 unprocessed
@@ -5492,6 +5663,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/RJJ26BAJ3EI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
+903
 
 181
 unprocessed
@@ -5535,6 +5707,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/UBK4POAKGUI6TBNWIHAP4DC3R4.jpg
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
+946
 
 181
 unprocessed
@@ -5579,6 +5752,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/GUZMLXQKCMI6TI7QOHEVCBWZNI(1).jpg
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
 Today&#39;s paper
+990
 
 181
 unprocessed
@@ -5624,6 +5798,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 ./webpage5_files/WLMNRUAKBUI6TCKCB32EFZMQSQ(1).jpg
 Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
+1035
 
 181
 unprocessed
@@ -5670,6 +5845,7 @@ powa-15e16eff-82af-4e55-ba5a-48de4329a33c-0-ad-mute
 Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
+1081
 
 181
 unprocessed
@@ -5717,6 +5893,7 @@ Today&#39;s paper
 ./webpage5_files/GQMMYOLYSRH2PAERATH3WB5YTY.jpg
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
+1128
 
 181
 unprocessed
@@ -5765,6 +5942,7 @@ Today&#39;s paper
 ./webpage5_files/EWLPTWLRZNGVRAIC25QVIJYPF4.jpg
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
 ./webpage5_files/confidential-tips-70.png
+1176
 
 181
 unprocessed
@@ -5814,6 +5992,7 @@ Today&#39;s paper
 ./webpage5_files/IBUNTTBXA5AYPCGEM4W74NLUJM.jpg
 ./webpage5_files/confidential-tips-70.png
 ./webpage5_files/WPBS_KP_hero.jpg
+1225
 
 181
 unprocessed
@@ -5864,6 +6043,7 @@ Today&#39;s paper
 ./webpage5_files/confidential-tips-70.png
 ./webpage5_files/WPBS_KP_hero.jpg
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
+1275
 
 181
 unprocessed
@@ -5915,6 +6095,7 @@ Today&#39;s paper
 ./webpage5_files/WPBS_KP_hero.jpg
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
+1326
 
 181
 unprocessed
@@ -5967,6 +6148,7 @@ Today&#39;s paper
 ./webpage5_files/WPBS_TRP_R2_native_1113.jpg
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
+1378
 
 181
 unprocessed
@@ -6020,6 +6202,7 @@ Today&#39;s paper
 ./webpage5_files/screenshot-www.harrykotlar.com-2018.11.20-13-36-59.png
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
 ./webpage5_files/AFP_1BG82F.jpg
+1431
 
 181
 unprocessed
@@ -6074,6 +6257,7 @@ Today&#39;s paper
 ./webpage5_files/AD542KUGWQI6RHQGJW2SVRBOAU.jpg
 ./webpage5_files/AFP_1BG82F.jpg
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
+1485
 
 181
 unprocessed
@@ -6129,6 +6313,7 @@ Today&#39;s paper
 ./webpage5_files/AFP_1BG82F.jpg
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
+1540
 
 181
 unprocessed
@@ -6185,6 +6370,7 @@ Today&#39;s paper
 ./webpage5_files/181204_wp_alabama_jews_0539.jpg
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/Filler-Corn07.JPG
+1596
 
 181
 unprocessed
@@ -6242,6 +6428,7 @@ Today&#39;s paper
 ./webpage5_files/4WC2IJQEWII6TFMMBJQBEJX7NM.jpg
 ./webpage5_files/Filler-Corn07.JPG
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
+1653
 
 181
 unprocessed
@@ -6300,6 +6487,7 @@ Today&#39;s paper
 ./webpage5_files/Filler-Corn07.JPG
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
+1711
 
 181
 unprocessed
@@ -6359,6 +6547,7 @@ Today&#39;s paper
 ./webpage5_files/VIFFIQXV6II6RGOCZ7FG7T3BBQ.jpg
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
 ./webpage5_files/GettyImages-1068135686.JPG
+1770
 
 181
 unprocessed
@@ -6419,6 +6608,7 @@ Today&#39;s paper
 ./webpage5_files/dinmins-flanksteakgyros__163leadweb.jpg
 ./webpage5_files/GettyImages-1068135686.JPG
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
+1830
 
 181
 unprocessed
@@ -6480,6 +6670,7 @@ Today&#39;s paper
 ./webpage5_files/GettyImages-1068135686.JPG
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
+1891
 
 181
 unprocessed
@@ -6542,6 +6733,7 @@ Today&#39;s paper
 ./webpage5_files/VMZRLVYGHZDXPBXT7XAL3N2GBY.PNG
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
+1953
 
 181
 unprocessed
@@ -6605,6 +6797,7 @@ Today&#39;s paper
 ./webpage5_files/YBBGP6AJUMI6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/jack-odwyer-crop.JPG
+2016
 
 181
 unprocessed
@@ -6669,6 +6862,7 @@ Today&#39;s paper
 ./webpage5_files/54SNSHAG7II6TCKCB32EFZMQSQ.jpg
 ./webpage5_files/jack-odwyer-crop.JPG
 https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
+2080
 
 181
 unprocessed
@@ -6734,6 +6928,7 @@ Today&#39;s paper
 ./webpage5_files/jack-odwyer-crop.JPG
 https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 //me.effectivemeasure.net/em_image
+2145
 
 181
 unprocessed
