@@ -1,16 +1,16 @@
 def background(color):
     lines=color.split("back")
-    startingtag="ground-color:\""
-    endtag=";\""
+    initialtag="ground-color:\""
+    endtagg=";\""
     bgcolor=[]
     count=0
     for i in lines:
         bgcolor.append(i)
         for j in bgcolor:
-            if startingtag in j:
-                start = j.index(startingtag)
-                items = j[start+len(startingtag):]
-                end = j.index(endtag)
+            if initialtag in j:
+                start = j.index(initialtag)
+                items = j[start+len(initialtag):]
+                end = j.index(endtagg)
                 answer = j[:end]
         count=count+1
         print(answer)

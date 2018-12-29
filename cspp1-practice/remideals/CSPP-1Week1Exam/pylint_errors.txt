@@ -2,12 +2,12 @@
 webpage.py:2:9: C0326: Exactly one space required around assignment
     lines=color.split("back")
          ^ (bad-whitespace)
-webpage.py:3:15: C0326: Exactly one space required around assignment
-    startingtag="ground-color:\""
-               ^ (bad-whitespace)
-webpage.py:4:10: C0326: Exactly one space required around assignment
-    endtag=";\""
-          ^ (bad-whitespace)
+webpage.py:3:14: C0326: Exactly one space required around assignment
+    initialtag="ground-color:\""
+              ^ (bad-whitespace)
+webpage.py:4:11: C0326: Exactly one space required around assignment
+    endtagg=";\""
+           ^ (bad-whitespace)
 webpage.py:5:11: C0326: Exactly one space required around assignment
     bgcolor=[]
            ^ (bad-whitespace)
