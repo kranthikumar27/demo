@@ -1,7 +1,7 @@
 ************* Module webpage
 webpage.py:18:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
 webpage.py:23:15: C0326: Exactly one space required around assignment
-    startingtag=" \""
+    startingtag="src\""
                ^ (bad-whitespace)
 webpage.py:25:9: C0326: Exactly one space required around assignment
     image=[]

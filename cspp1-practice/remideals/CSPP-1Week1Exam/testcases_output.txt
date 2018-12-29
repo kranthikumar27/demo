@@ -68,14 +68,49 @@ https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 65
 
 Your Output: 
-Traceback (most recent call last):
-  File "webpage.py", line 48, in <module>
-    main()
-  File "webpage.py", line 43, in main
-    getImageUrl(data)
-  File "webpage.py", line 34, in getImageUrl
-    end = items.index(endtag)
-ValueError: substring not found
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+, scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.featureLoaded(element);
+        }
+        var url = _context + "/api/v2/render/feature/"+id+"?rid
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+, scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.featureLoaded(element);
+        }
+        var url = _context + "/api/v2/render/feature/"+id+"?rid
+6
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -103,14 +138,49 @@ transparent
 20
 
 Your Output: 
-Traceback (most recent call last):
-  File "webpage.py", line 48, in <module>
-    main()
-  File "webpage.py", line 43, in main
-    getImageUrl(data)
-  File "webpage.py", line 34, in getImageUrl
-    end = items.index(endtag)
-ValueError: substring not found
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+, scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.featureLoaded(element);
+        }
+        var url = _context + "/api/v2/render/feature/"+id+"?rid
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+, scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.featureLoaded(element);
+        }
+        var url = _context + "/api/v2/render/feature/"+id+"?rid
+6
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -181,13 +251,48 @@ Events
 63
 
 Your Output: 
-Traceback (most recent call last):
-  File "webpage.py", line 48, in <module>
-    main()
-  File "webpage.py", line 43, in main
-    getImageUrl(data)
-  File "webpage.py", line 34, in getImageUrl
-    end = items.index(endtag)
-ValueError: substring not found
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+, scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.featureLoaded(element);
+        }
+        var url = _context + "/api/v2/render/feature/"+id+"?rid
+,scripts[i].src);document.body.appendChild(s)}else eval(scripts[i].innerHTML);for(var file in resources)if(resources.hasOwnProperty(file)&&file.endsWith(".js")){var script=
+document.createElement("script");script.setAttribute("src",resources[file]);document.body.appendChild(script)}perf("success-variant");variantLoaded(testId,winner,newFeature,true)})},function(){iterateFeatures(testId,function(feature){perf("failure-step2");variantLoaded(testId,testId,feature,false)})},timeLeft)}function variantLoaded(testId,variantId,feature,success){var tag=testId+"-"+feature.id;if(!status[tag]){status[tag]=true;feature.style.visibility
+, scripts[i].src);
+                    d.body.appendChild(s);
+                }
+                else {
+                    window.pageBuilder._executeAsyncFeatureScripts(scripts[i].innerHTML); //eval isn't evil always.
+                }
+            }
+            for(var file in resources) {
+                if(resources.hasOwnProperty(file) && file.endsWith(".js")) {
+                    var s1 = d.createElement("script");
+                    s1.setAttribute("src", resources[file]);
+                    d.body.appendChild(s1);
+                }
+            }
+            window.pageBuilder.featureLoaded(element);
+        }
+        var url = _context + "/api/v2/render/feature/"+id+"?rid
+6
 ----------------------------------------
 
