@@ -1,26 +1,29 @@
 ************* Module webpage
-webpage.py:2:8: C0326: Exactly one space required around assignment
-    line=color.split("background-color")
-        ^ (bad-whitespace)
-webpage.py:4:15: C0326: Exactly one space required around assignment
-    startingtag=":\""
+webpage.py:18:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+webpage.py:23:15: C0326: Exactly one space required around assignment
+    startingtag="=\""
                ^ (bad-whitespace)
-webpage.py:5:10: C0326: Exactly one space required around assignment
-    endtag=";\""
-          ^ (bad-whitespace)
-webpage.py:6:11: C0326: Exactly one space required around assignment
-    bgcolor=[]
+webpage.py:25:9: C0326: Exactly one space required around assignment
+    image=[]
+         ^ (bad-whitespace)
+webpage.py:26:11: C0326: Exactly one space required around assignment
+    counter=0
            ^ (bad-whitespace)
-webpage.py:50:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:36:22: C0326: Exactly one space required around assignment
+                unique=set(result)
+                      ^ (bad-whitespace)
+webpage.py:37:23: C0326: Exactly one space required around assignment
+                counter=counter+1
+                       ^ (bad-whitespace)
+webpage.py:49:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:1:0: C0103: Function name "getBackground" doesn't conform to snake_case naming style (invalid-name)
 webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:14:16: W0612: Unused variable 'items' (unused-variable)
-webpage.py:22:0: C0103: Function name "getImageUrl" doesn't conform to snake_case naming style (invalid-name)
-webpage.py:22:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:22:16: W0613: Unused argument 'urls' (unused-argument)
-webpage.py:42:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:1:18: W0613: Unused argument 'color' (unused-argument)
+webpage.py:20:0: C0103: Function name "getImageUrl" doesn't conform to snake_case naming style (invalid-name)
+webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 4.09/10 (previous run: 4.35/10, -0.26)
+Your code has been rated at 4.40/10 (previous run: 4.09/10, +0.31)
 
