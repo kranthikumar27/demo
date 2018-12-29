@@ -9,19 +9,18 @@ webpage.py:25:9: C0326: Exactly one space required around assignment
 webpage.py:26:11: C0326: Exactly one space required around assignment
     counter=0
            ^ (bad-whitespace)
-webpage.py:36:23: C0326: Exactly one space required around assignment
+webpage.py:37:23: C0326: Exactly one space required around assignment
                 counter=counter+1
                        ^ (bad-whitespace)
-webpage.py:47:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:48:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:1:0: C0103: Function name "getBackground" doesn't conform to snake_case naming style (invalid-name)
 webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
 webpage.py:1:18: W0613: Unused argument 'color' (unused-argument)
 webpage.py:20:0: C0103: Function name "getImageUrl" doesn't conform to snake_case naming style (invalid-name)
 webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:35:16: W0612: Unused variable 'result' (unused-variable)
-webpage.py:39:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 4.17/10 (previous run: 4.62/10, -0.45)
+Your code has been rated at 4.80/10 (previous run: 4.17/10, +0.63)
 
