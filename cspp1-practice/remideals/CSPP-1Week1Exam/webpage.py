@@ -1,10 +1,10 @@
 def getBackground(color):
-    lines=color.split("back")
+    line=color.split("back")
     # print(lines)
     startingtag="ground-color:\""
     endtag=";\""
     bgcolor=[]
-    for i in lines:
+    for i in line:
         bgcolor.append(i)
         # print(bgcolor)
         for j in bgcolor:
@@ -12,8 +12,9 @@ def getBackground(color):
                 start = j.index(startingtag)
                 items = j[start+len(startingtag):]
                 end = j.index(endtag)
-                result = j[:end]
-                print(result)
+                print("kranthi")
+                results = j[:end]
+                print(results)
         # print(bgcolor)
 
 
