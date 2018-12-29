@@ -42,7 +42,7 @@ def main():
     data = open("webpage5.html", errors="ignore").read()
     # print(data)
     image(data)
-    background(data)
+    # background(data)
 
 
 if __name__ == '__main__':

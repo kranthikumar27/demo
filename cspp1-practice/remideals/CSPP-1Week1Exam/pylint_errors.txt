@@ -18,8 +18,7 @@ webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
 webpage.py:25:4: W0621: Redefining name 'image' from outer scope (line 20) (redefined-outer-name)
 webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:45:4: E0602: Undefined variable 'background' (undefined-variable)
 
 ------------------------------------------------------------------
-Your code has been rated at 3.04/10 (previous run: 5.12/10, -2.08)
+Your code has been rated at 5.00/10 (previous run: 3.04/10, +1.96)
 
