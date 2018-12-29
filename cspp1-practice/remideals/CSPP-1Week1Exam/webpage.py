@@ -1,21 +1,21 @@
-# def background(color):
-#     lines=color.split("back")
-#     initialtag="ground-color:\""
-#     endtagg=";\""
-#     bgcolor=[]
-#     count=0
-#     answer=0
-#     for i in lines:
-#         bgcolor.append(i)
-#         for j in bgcolor:
-#             if initialtag in j:
-#                 start = j.index(initialtag)
-#                 items = j[start+len(initialtag):]
-#                 end = j.index(endtagg)
-#                 answer = j[:end]
-#         count=count+1
-#         print(answer)
-#     print(count)
+def background(color):
+    lines=color.split("back")
+    initialtag="ground-color:\""
+    endtagg=";\""
+    bgcolor=[]
+    count=0
+    answer=0
+    for i in lines:
+        bgcolor.append(i)
+        for j in bgcolor:
+            if initialtag in j:
+                start = j.index(initialtag)
+                items = j[start+len(initialtag):]
+                end = j.index(endtagg)
+                answer = j[:end]
+        count=count+1
+        print(answer)
+    print(count)
 
 def image(urls):
     lines = urls.split("<img src")
@@ -42,7 +42,7 @@ def main():
     data = open("webpage5.html", errors="ignore").read()
     # print(data)
     image(data)
-    # background(data)
+    background(data)
 
 
 if __name__ == '__main__':
