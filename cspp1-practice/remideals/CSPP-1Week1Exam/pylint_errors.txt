@@ -43,5 +43,5 @@ webpage.py:25:4: W0621: Redefining name 'image' from outer scope (line 20) (rede
 webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 5.00/10 (previous run: 5.13/10, -0.13)
+Your code has been rated at 5.12/10 (previous run: 5.00/10, +0.12)
 
