@@ -1,4 +1,4 @@
-def getBackground(color):
+def background(color):
     lines=color.split("back")
     startingtag="ground-color:\""
     endtag=";\""
@@ -16,7 +16,7 @@ def getBackground(color):
         print(results)
     print(count)
 
-def getImageUrl(urls):
+def image(urls):
     lines = urls.split("<img src")
     # print(lines)
     startingtag="=\""
@@ -40,8 +40,8 @@ def getImageUrl(urls):
 def main():
     data = open("webpage5.html", errors="ignore").read()
     # print(data)
-    getImageUrl(data)
-    getBackground(data)
+    image(data)
+    background(data)
 
 
 if __name__ == '__main__':

@@ -133,8 +133,8 @@ Traceback (most recent call last):
   File "webpage.py", line 48, in <module>
     main()
   File "webpage.py", line 44, in main
-    getBackground(data)
-  File "webpage.py", line 16, in getBackground
+    background(data)
+  File "webpage.py", line 16, in background
     print(results)
 UnboundLocalError: local variable 'results' referenced before assignment
 ----------------------------------------
@@ -229,8 +229,8 @@ Traceback (most recent call last):
   File "webpage.py", line 48, in <module>
     main()
   File "webpage.py", line 44, in main
-    getBackground(data)
-  File "webpage.py", line 16, in getBackground
+    background(data)
+  File "webpage.py", line 16, in background
     print(results)
 UnboundLocalError: local variable 'results' referenced before assignment
 ----------------------------------------
@@ -368,8 +368,8 @@ Traceback (most recent call last):
   File "webpage.py", line 48, in <module>
     main()
   File "webpage.py", line 44, in main
-    getBackground(data)
-  File "webpage.py", line 16, in getBackground
+    background(data)
+  File "webpage.py", line 16, in background
     print(results)
 UnboundLocalError: local variable 'results' referenced before assignment
 ----------------------------------------
