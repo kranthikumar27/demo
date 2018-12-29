@@ -4,7 +4,6 @@ def background(color):
     endtagg=";\""
     bgcolor=[]
     count=0
-    answer=""
     for i in lines:
         bgcolor.append(i)
         for j in bgcolor:
@@ -13,8 +12,8 @@ def background(color):
                 items = j[start+len(initialtag):]
                 end = j.index(endtagg)
                 answer = j[:end]
-            count=count+1
-            print(answer)
+        count=count+1
+        print(answer)
     print(count)
 
 # def image(urls):
