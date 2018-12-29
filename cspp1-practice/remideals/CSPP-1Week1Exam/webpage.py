@@ -4,7 +4,6 @@ def background(color):
     endtagg=";\""
     bgcolor=[]
     count=0
-    answer=0
     for i in lines:
         bgcolor.append(i)
         for j in bgcolor:
