@@ -22,9 +22,11 @@ webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
 webpage.py:48:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:14:16: E0602: Undefined variable 'answer' (undefined-variable)
+webpage.py:16:14: E0602: Undefined variable 'answer' (undefined-variable)
 webpage.py:12:16: W0612: Unused variable 'items' (unused-variable)
 webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
 
-------------------------------------------------------------------
-Your code has been rated at 4.09/10 (previous run: 3.91/10, +0.18)
+-------------------------------------------------------------------
+Your code has been rated at -0.45/10 (previous run: 4.09/10, -4.55)
 

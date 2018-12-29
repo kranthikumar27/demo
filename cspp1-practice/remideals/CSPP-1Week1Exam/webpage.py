@@ -11,7 +11,7 @@ def background(color):
                 start = j.index(initialtag)
                 items = j[start+len(initialtag):]
                 end = j.index(endtagg)
-                answer = j[:end]
+                answer.append(j[:end])
         count=count+1
         print(answer)
     print(count)

@@ -75,7 +75,7 @@ Traceback (most recent call last):
     background(data)
   File "webpage.py", line 16, in background
     print(answer)
-UnboundLocalError: local variable 'answer' referenced before assignment
+NameError: name 'answer' is not defined
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -110,7 +110,7 @@ Traceback (most recent call last):
     background(data)
   File "webpage.py", line 16, in background
     print(answer)
-UnboundLocalError: local variable 'answer' referenced before assignment
+NameError: name 'answer' is not defined
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -188,6 +188,6 @@ Traceback (most recent call last):
     background(data)
   File "webpage.py", line 16, in background
     print(answer)
-UnboundLocalError: local variable 'answer' referenced before assignment
+NameError: name 'answer' is not defined
 ----------------------------------------
 
