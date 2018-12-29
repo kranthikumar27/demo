@@ -1,7 +1,7 @@
 ************* Module webpage
 webpage.py:18:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
 webpage.py:23:15: C0326: Exactly one space required around assignment
-    startingtag="=\""
+    startingtag=" \""
                ^ (bad-whitespace)
 webpage.py:25:9: C0326: Exactly one space required around assignment
     image=[]
@@ -22,5 +22,5 @@ webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
 webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 4.80/10 (previous run: 4.17/10, +0.63)
+Your code has been rated at 4.80/10 (previous run: 4.80/10, +0.00)
 
