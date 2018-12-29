@@ -13,7 +13,7 @@ def getBackground(color):
                 start = j.index(startingtag)
                 items = j[start+len(startingtag):]
                 end = j.index(endtag)
-                print("kranthi")
+                # print("kranthi")
                 results = j[:end]
                 print(results)
         # print(bgcolor)
