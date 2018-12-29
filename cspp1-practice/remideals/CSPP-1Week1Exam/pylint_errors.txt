@@ -1,5 +1,4 @@
 ************* Module webpage
-webpage.py:18:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
 webpage.py:23:15: C0326: Exactly one space required around assignment
     startingtag="=\""
                ^ (bad-whitespace)
@@ -12,15 +11,13 @@ webpage.py:26:11: C0326: Exactly one space required around assignment
 webpage.py:36:23: C0326: Exactly one space required around assignment
                 counter=counter+1
                        ^ (bad-whitespace)
+webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
 webpage.py:48:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
-webpage.py:1:0: C0103: Function name "getBackground" doesn't conform to snake_case naming style (invalid-name)
-webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:1:18: W0613: Unused argument 'color' (unused-argument)
 webpage.py:20:0: C0103: Function name "getImageUrl" doesn't conform to snake_case naming style (invalid-name)
 webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
 webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 4.80/10 (previous run: 4.80/10, +0.00)
+Your code has been rated at 5.45/10 (previous run: 4.80/10, +0.65)
 
