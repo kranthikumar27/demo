@@ -18,7 +18,7 @@ def getBackground(color):
         pass
 
 def getImageUrl(urls):
-    lines = urls.split("<img    src")
+    lines = urls.split("<img")
     # print(lines)
     startingtag="=\""
     endtag = "\""
