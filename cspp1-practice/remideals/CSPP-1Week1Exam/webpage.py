@@ -35,7 +35,7 @@ def getImageUrl(urls):
                 result = items[:end]
         counter=counter+1    
         print(result)
-        print(counter)
+    print(counter)
         
     
 def main():
