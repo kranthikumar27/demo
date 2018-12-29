@@ -33,9 +33,9 @@ def getImageUrl(urls):
                 items = items[start+len(startingtag):]
                 end = items.index(endtag)
                 result = items[:end]
-                counter=counter+1
                 print(result)
-                print(counter)
+                counter=counter+1
+    print(counter)
     
 def main():
     data = open("webpage5.html", errors="ignore").read()

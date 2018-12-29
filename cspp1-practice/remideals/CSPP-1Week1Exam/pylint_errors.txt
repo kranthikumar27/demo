@@ -8,7 +8,7 @@ webpage.py:25:9: C0326: Exactly one space required around assignment
 webpage.py:26:11: C0326: Exactly one space required around assignment
     counter=0
            ^ (bad-whitespace)
-webpage.py:36:23: C0326: Exactly one space required around assignment
+webpage.py:37:23: C0326: Exactly one space required around assignment
                 counter=counter+1
                        ^ (bad-whitespace)
 webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
