@@ -21,7 +21,7 @@ def getImageUrl(urls):
     lines = urls.split("<img")
     # print(lines)
     startingtag=" \""
-    endtag = "\""
+    endtag = ">\""
     image=[]
     counter=0
     for i in lines:
