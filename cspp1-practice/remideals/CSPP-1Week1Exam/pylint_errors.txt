@@ -17,9 +17,9 @@ webpage.py:6:9: C0326: Exactly one space required around assignment
 webpage.py:7:10: C0326: Exactly one space required around assignment
     answer=""
           ^ (bad-whitespace)
-webpage.py:16:13: C0326: Exactly one space required around assignment
-        count=count+1
-             ^ (bad-whitespace)
+webpage.py:16:17: C0326: Exactly one space required around assignment
+            count=count+1
+                 ^ (bad-whitespace)
 webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
 webpage.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
 webpage.py:49:0: C0304: Final newline missing (missing-final-newline)
@@ -29,5 +29,5 @@ webpage.py:13:16: W0612: Unused variable 'items' (unused-variable)
 webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 3.91/10 (previous run: 4.09/10, -0.18)
+Your code has been rated at 3.91/10 (previous run: 3.91/10, +0.00)
 
