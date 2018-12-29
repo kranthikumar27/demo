@@ -26,5 +26,5 @@ webpage.py:12:16: W0612: Unused variable 'items' (unused-variable)
 webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 4.09/10 (previous run: 5.25/10, -1.16)
+Your code has been rated at 4.09/10 (previous run: 4.09/10, +0.00)
 

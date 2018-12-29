@@ -74,8 +74,8 @@ Traceback (most recent call last):
   File "webpage.py", line 44, in main
     background(data)
   File "webpage.py", line 16, in background
-    print(results)
-UnboundLocalError: local variable 'results' referenced before assignment
+    print(answer)
+UnboundLocalError: local variable 'answer' referenced before assignment
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -109,8 +109,8 @@ Traceback (most recent call last):
   File "webpage.py", line 44, in main
     background(data)
   File "webpage.py", line 16, in background
-    print(results)
-UnboundLocalError: local variable 'results' referenced before assignment
+    print(answer)
+UnboundLocalError: local variable 'answer' referenced before assignment
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -187,7 +187,7 @@ Traceback (most recent call last):
   File "webpage.py", line 44, in main
     background(data)
   File "webpage.py", line 16, in background
-    print(results)
-UnboundLocalError: local variable 'results' referenced before assignment
+    print(answer)
+UnboundLocalError: local variable 'answer' referenced before assignment
 ----------------------------------------
 

@@ -11,9 +11,9 @@ def background(color):
                 start = j.index(startingtag)
                 items = j[start+len(startingtag):]
                 end = j.index(endtag)
-                results = j[:end]
+                answer = j[:end]
         count=count+1
-        print(results)
+        print(answer)
     print(count)
 
 # def image(urls):
