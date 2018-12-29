@@ -1,7 +1,7 @@
 def getBackground(color):
-    line=color.split("back")
+    line=color.split("background-color")
     # print(lines)
-    startingtag="ground-color:\""
+    startingtag=":\""
     endtag=";\""
     bgcolor=[]
     for i in line:
