@@ -8,9 +8,9 @@ webpage.py:25:9: C0326: Exactly one space required around assignment
 webpage.py:26:11: C0326: Exactly one space required around assignment
     counter=0
            ^ (bad-whitespace)
-webpage.py:37:23: C0326: Exactly one space required around assignment
-                counter=counter+1
-                       ^ (bad-whitespace)
+webpage.py:37:19: C0326: Exactly one space required around assignment
+            counter=counter+1
+                   ^ (bad-whitespace)
 webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
 webpage.py:48:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
