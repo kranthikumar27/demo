@@ -25,5 +25,5 @@ webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
 webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 4.40/10 (previous run: 4.09/10, +0.31)
+Your code has been rated at 4.62/10 (previous run: 4.40/10, +0.22)
 

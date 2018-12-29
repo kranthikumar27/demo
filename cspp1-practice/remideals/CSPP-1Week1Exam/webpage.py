@@ -41,7 +41,7 @@ def getImageUrl(urls):
 def main():
     data = open("webpage5.html", errors="ignore").read()
     # print(data)
-    # getImageUrl(data)
+    getImageUrl(data)
     getBackground(data)
 
 
