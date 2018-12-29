@@ -14,31 +14,34 @@ webpage.py:5:11: C0326: Exactly one space required around assignment
 webpage.py:6:9: C0326: Exactly one space required around assignment
     count=0
          ^ (bad-whitespace)
-webpage.py:15:13: C0326: Exactly one space required around assignment
+webpage.py:7:10: C0326: Exactly one space required around assignment
+    answer=0
+          ^ (bad-whitespace)
+webpage.py:16:13: C0326: Exactly one space required around assignment
         count=count+1
              ^ (bad-whitespace)
-webpage.py:22:15: C0326: Exactly one space required around assignment
+webpage.py:23:15: C0326: Exactly one space required around assignment
     startingtag="=\""
                ^ (bad-whitespace)
-webpage.py:24:9: C0326: Exactly one space required around assignment
+webpage.py:25:9: C0326: Exactly one space required around assignment
     image=[]
          ^ (bad-whitespace)
-webpage.py:25:11: C0326: Exactly one space required around assignment
+webpage.py:26:11: C0326: Exactly one space required around assignment
     counter=0
            ^ (bad-whitespace)
-webpage.py:35:15: C0326: Exactly one space required around assignment
+webpage.py:36:15: C0326: Exactly one space required around assignment
         counter=counter+1
                ^ (bad-whitespace)
-webpage.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
 webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:48:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+webpage.py:49:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:12:16: W0612: Unused variable 'items' (unused-variable)
-webpage.py:19:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:24:4: W0621: Redefining name 'image' from outer scope (line 19) (redefined-outer-name)
-webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:13:16: W0612: Unused variable 'items' (unused-variable)
+webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:25:4: W0621: Redefining name 'image' from outer scope (line 20) (redefined-outer-name)
+webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 5.13/10 (previous run: 4.09/10, +1.04)
+Your code has been rated at 5.00/10 (previous run: 5.13/10, -0.13)
 
