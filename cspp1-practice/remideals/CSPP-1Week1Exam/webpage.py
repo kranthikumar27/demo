@@ -16,31 +16,31 @@ def background(color):
         print(results)
     print(count)
 
-def image(urls):
-    lines = urls.split("<img src")
-    # print(lines)
-    startingtag="=\""
-    endtag = "\""
-    image=[]
-    counter=0
-    for i in lines:
-        image.append(i)
-        # print(image)
-        for items in image:
-            if startingtag in items:
-                start = items.index(startingtag)
-                items = items[start+len(startingtag):]
-                end = items.index(endtag)
-                result = items[:end]
-        counter=counter+1
-        print(result)
-    print(counter)
+# def image(urls):
+#     lines = urls.split("<img src")
+#     # print(lines)
+#     startingtag="=\""
+#     endtag = "\""
+#     image=[]
+#     counter=0
+#     for i in lines:
+#         image.append(i)
+#         # print(image)
+#         for items in image:
+#             if startingtag in items:
+#                 start = items.index(startingtag)
+#                 items = items[start+len(startingtag):]
+#                 end = items.index(endtag)
+#                 result = items[:end]
+#         counter=counter+1
+#         print(result)
+#     print(counter)
         
     
 def main():
     data = open("webpage5.html", errors="ignore").read()
     # print(data)
-    image(data)
+    # image(data)
     background(data)
 
 
