@@ -38,7 +38,8 @@ def image(urls):
         print(result)
     print(counter)
         
-    
+def list1(data):
+    pass
 def main():
     data = open("webpage5.html", errors="ignore").read()
     # print(data)

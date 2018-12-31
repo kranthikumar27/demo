@@ -1,2 +1,2 @@
 ************* Module webpage
-webpage.py:50:0: E0001: invalid syntax (<unknown>, line 50) (syntax-error)
+webpage.py:51:0: E0001: invalid syntax (<unknown>, line 51) (syntax-error)

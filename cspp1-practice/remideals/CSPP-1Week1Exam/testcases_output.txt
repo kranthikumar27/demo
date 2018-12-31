@@ -68,7 +68,7 @@ https://sb.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1
 65
 
 Your Output: 
-  File "webpage.py", line 50
+  File "webpage.py", line 51
     elif inputdata == "list"
                            ^
 SyntaxError: invalid syntax
@@ -99,7 +99,7 @@ transparent
 20
 
 Your Output: 
-  File "webpage.py", line 50
+  File "webpage.py", line 51
     elif inputdata == "list"
                            ^
 SyntaxError: invalid syntax
@@ -173,7 +173,7 @@ Events
 63
 
 Your Output: 
-  File "webpage.py", line 50
+  File "webpage.py", line 51
     elif inputdata == "list"
                            ^
 SyntaxError: invalid syntax
