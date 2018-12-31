@@ -1,21 +1,20 @@
 def background(color):
     bgcolor=[]
-    lines=color.split(";")
+    linewithcolor=color.split(";")
     initialtag="background-color:\""
     endtagg=";\""
     answer=[]
-    # count=0
-    for i in lines:
-        if "background-color" in i:
+    count=0
+    for i in linewithcolor:
+        if "background-color:" in i:
             start = i.index(initialtag)
-            i= i[start+len(initialtag):]
+            i = i[start+len(initialtag):]
             end = i.index(endtagg)
             answer.append(i[end:])
-            print(answer)
-                
-    #     count=count+1
-    #     print(answer)
-    # print(count)
+            print(answer)            
+        count=count+1
+        print(answer)
+    print(count)
 
 def image(urls):
     lines = urls.split("<img")

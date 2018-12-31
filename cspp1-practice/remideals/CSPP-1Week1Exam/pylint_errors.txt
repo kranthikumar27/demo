@@ -2,9 +2,9 @@
 webpage.py:2:11: C0326: Exactly one space required around assignment
     bgcolor=[]
            ^ (bad-whitespace)
-webpage.py:3:9: C0326: Exactly one space required around assignment
-    lines=color.split(";")
-         ^ (bad-whitespace)
+webpage.py:3:17: C0326: Exactly one space required around assignment
+    linewithcolor=color.split(";")
+                 ^ (bad-whitespace)
 webpage.py:4:14: C0326: Exactly one space required around assignment
     initialtag="background-color:\""
               ^ (bad-whitespace)
@@ -14,34 +14,37 @@ webpage.py:5:11: C0326: Exactly one space required around assignment
 webpage.py:6:10: C0326: Exactly one space required around assignment
     answer=[]
           ^ (bad-whitespace)
-webpage.py:11:13: C0326: Exactly one space required before assignment
-            i= i[start+len(initialtag):]
+webpage.py:7:9: C0326: Exactly one space required around assignment
+    count=0
+         ^ (bad-whitespace)
+webpage.py:14:25: C0303: Trailing whitespace (trailing-whitespace)
+webpage.py:15:13: C0326: Exactly one space required around assignment
+        count=count+1
              ^ (bad-whitespace)
-webpage.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:24:15: C0326: Exactly one space required around assignment
+webpage.py:23:15: C0326: Exactly one space required around assignment
     startingtag="src=\""
                ^ (bad-whitespace)
-webpage.py:26:9: C0326: Exactly one space required around assignment
+webpage.py:25:9: C0326: Exactly one space required around assignment
     image=[]
          ^ (bad-whitespace)
-webpage.py:27:11: C0326: Exactly one space required around assignment
+webpage.py:26:11: C0326: Exactly one space required around assignment
     counter=0
            ^ (bad-whitespace)
-webpage.py:37:15: C0326: Exactly one space required around assignment
+webpage.py:36:15: C0326: Exactly one space required around assignment
         counter=counter+1
                ^ (bad-whitespace)
-webpage.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:54:0: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:58:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+webpage.py:53:0: C0303: Trailing whitespace (trailing-whitespace)
+webpage.py:57:0: C0304: Final newline missing (missing-final-newline)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
 webpage.py:2:4: W0612: Unused variable 'bgcolor' (unused-variable)
-webpage.py:20:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:26:4: W0621: Redefining name 'image' from outer scope (line 20) (redefined-outer-name)
-webpage.py:41:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:41:10: W0613: Unused argument 'data' (unused-argument)
-webpage.py:43:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:19:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:25:4: W0621: Redefining name 'image' from outer scope (line 19) (redefined-outer-name)
+webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:40:10: W0613: Unused argument 'data' (unused-argument)
+webpage.py:42:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 5.00/10 (previous run: 4.35/10, +0.65)
+Your code has been rated at 5.21/10 (previous run: 5.00/10, +0.21)
 
