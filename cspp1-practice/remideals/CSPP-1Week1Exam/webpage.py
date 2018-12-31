@@ -48,7 +48,7 @@ def main():
         image(data)
     elif inputdata == "background":
         background(data)
-    elif inputdata == "list"
+    elif inputdata == "list":
         list1(data)
     # image(data)
     
