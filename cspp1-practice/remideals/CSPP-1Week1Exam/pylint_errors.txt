@@ -1,50 +1,125 @@
 ************* Module webpage
-webpage.py:2:11: C0326: Exactly one space required around assignment
-    bgcolor=[]
-           ^ (bad-whitespace)
-webpage.py:3:17: C0326: Exactly one space required around assignment
-    linewithcolor=color.split(";")
-                 ^ (bad-whitespace)
-webpage.py:4:14: C0326: Exactly one space required around assignment
-    initialtag="background-color:\""
+webpage.py:2:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:2:8: C0326: Exactly one space required around assignment
+	bgcolor=[]
+        ^ (bad-whitespace)
+webpage.py:3:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:3:14: C0326: Exactly one space required around assignment
+	linewithcolor=data.split(";")
               ^ (bad-whitespace)
-webpage.py:5:11: C0326: Exactly one space required around assignment
-    endtagg=";\""
-           ^ (bad-whitespace)
-webpage.py:6:10: C0326: Exactly one space required around assignment
-    answer=[]
-          ^ (bad-whitespace)
-webpage.py:7:9: C0326: Exactly one space required around assignment
-    count=0
+webpage.py:5:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:5:12: C0326: Exactly one space required around assignment
+	startingtag="background-color"
+            ^ (bad-whitespace)
+webpage.py:6:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:6:7: C0326: Exactly one space required around assignment
+	endtag=";"
+       ^ (bad-whitespace)
+webpage.py:7:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:7:7: C0326: Exactly one space required around assignment
+	result=[]
+       ^ (bad-whitespace)
+webpage.py:8:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:8:4: C0326: Exactly one space required around assignment
+	tag=":"
+    ^ (bad-whitespace)
+webpage.py:9:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:9:6: C0326: Exactly one space required around assignment
+	count=0
+      ^ (bad-whitespace)
+webpage.py:10:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:11:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:12:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:13:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:14:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:15:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:18:5: C0303: Trailing whitespace (trailing-whitespace)
+webpage.py:19:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:21:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:21:7: C0326: Exactly one space required around assignment
+	result=set(result)
+       ^ (bad-whitespace)
+webpage.py:24:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:24:6: C0326: Exactly one space required around assignment
+	count=0
+      ^ (bad-whitespace)
+webpage.py:25:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:25:6: C0326: Exactly one space required around assignment
+	final=[]
+      ^ (bad-whitespace)
+webpage.py:26:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:27:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:28:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:29:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:29:24: C0326: Exactly one space required after comma
+			i = i[1:].replace(" ","")
+                        ^ (bad-whitespace)
+webpage.py:30:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:31:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:32:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:33:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:34:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:34:8: C0326: Exactly one space required around assignment
+			index=j.index("}")
+        ^ (bad-whitespace)
+webpage.py:35:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:35:4: C0326: Exactly one space required around assignment
+			j=j[:index]
+    ^ (bad-whitespace)
+webpage.py:36:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:37:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:38:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:44:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:46:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:47:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:47:12: C0326: Exactly one space required around assignment
+	startingtag="src=\""
+            ^ (bad-whitespace)
+webpage.py:48:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:49:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:49:6: C0326: Exactly one space required around assignment
+	image=[]
+      ^ (bad-whitespace)
+webpage.py:50:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:50:8: C0326: Exactly one space required around assignment
+	counter=0
+        ^ (bad-whitespace)
+webpage.py:51:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:52:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:54:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:55:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:56:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:57:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:58:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:59:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:60:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:60:9: C0326: Exactly one space required around assignment
+		counter=counter+1
          ^ (bad-whitespace)
-webpage.py:14:25: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:15:13: C0326: Exactly one space required around assignment
-        count=count+1
-             ^ (bad-whitespace)
-webpage.py:23:15: C0326: Exactly one space required around assignment
-    startingtag="src=\""
-               ^ (bad-whitespace)
-webpage.py:25:9: C0326: Exactly one space required around assignment
-    image=[]
-         ^ (bad-whitespace)
-webpage.py:26:11: C0326: Exactly one space required around assignment
-    counter=0
-           ^ (bad-whitespace)
-webpage.py:36:15: C0326: Exactly one space required around assignment
-        counter=counter+1
-               ^ (bad-whitespace)
-webpage.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:53:0: C0303: Trailing whitespace (trailing-whitespace)
-webpage.py:57:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:61:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:62:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:63:0: C0303: Trailing whitespace (trailing-whitespace)
+webpage.py:65:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:67:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:69:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:70:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:71:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:72:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:73:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:74:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:75:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+webpage.py:77:0: C0303: Trailing whitespace (trailing-whitespace)
+webpage.py:81:0: C0304: Final newline missing (missing-final-newline)
+webpage.py:81:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
 webpage.py:1:0: C0111: Missing module docstring (missing-docstring)
 webpage.py:1:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:2:4: W0612: Unused variable 'bgcolor' (unused-variable)
-webpage.py:19:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:25:4: W0621: Redefining name 'image' from outer scope (line 19) (redefined-outer-name)
-webpage.py:40:0: C0111: Missing function docstring (missing-docstring)
-webpage.py:40:10: W0613: Unused argument 'data' (unused-argument)
-webpage.py:42:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:6:1: W0612: Unused variable 'endtag' (unused-variable)
+webpage.py:43:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:49:1: W0621: Redefining name 'image' from outer scope (line 43) (redefined-outer-name)
+webpage.py:64:0: C0111: Missing function docstring (missing-docstring)
+webpage.py:64:10: W0613: Unused argument 'data' (unused-argument)
+webpage.py:66:0: C0111: Missing function docstring (missing-docstring)
 
-------------------------------------------------------------------
-Your code has been rated at 5.21/10 (previous run: 5.00/10, +0.21)
+-------------------------------------------------------------------
+Your code has been rated at -3.87/10 (previous run: 5.21/10, -9.08)
 
