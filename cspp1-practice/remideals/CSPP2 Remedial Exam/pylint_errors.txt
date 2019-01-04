@@ -40,9 +40,6 @@ reservation.py:39:0: C0325: Unnecessary parens after 'elif' keyword (superfluous
 reservation.py:40:36: C0326: Exactly one space required after comma
             obj1 = reservation(cname,roomnumber)
                                     ^ (bad-whitespace)
-reservation.py:55:46: C0326: Exactly one space required after comma
-                print(self.rooms[i].getcname()," ", self.rooms[i].getroomnumber())
-                                              ^ (bad-whitespace)
 reservation.py:56:0: C0303: Trailing whitespace (trailing-whitespace)
 reservation.py:59:28: C0326: Exactly one space required around comparison
             if self.rooms[i]!=None and self.rooms[i].getcname()==cname:
@@ -151,5 +148,5 @@ reservation.py:69:0: R0903: Too few public methods (0/2) (too-few-public-methods
 reservation.py:112:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 1.83/10 (previous run: 1.51/10, +0.32)
+Your code has been rated at 1.94/10 (previous run: 1.83/10, +0.11)
 
