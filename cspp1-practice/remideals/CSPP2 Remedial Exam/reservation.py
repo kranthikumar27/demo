@@ -28,10 +28,11 @@ class hotel:
                 obj=reservation(cname)
                 obj.setroomnumber(i+1)
                 self.rooms[i] = obj
+                print("........kranthikumar........")
                 self.count += 1
                 return i+1
         return -1
-        
+
     def reservingRoom(self, cname, roomnumber):
         if self.size == self.count:
             print("All Rooms are reserved")
@@ -40,7 +41,10 @@ class hotel:
             self.rooms[roomnumber-1] = obj1
             self.count += 1
             return True
-        elif (self.rooms[roomnumber] != None):
+        # elif (self.rooms[roomnumber] != None):
+            # print(".......kranthikumar.........")
+        else:
+            # print(".......kranthikumar.........")
             print("Room is already reserved")
         return False
 
@@ -98,9 +102,9 @@ class Solution1:
             print("No input")
 
         if tokens[0] == "build":
-            roomnum = int(tokens[1]);
+            roomnumber = int(tokens[1]);
             if(hotel.buildRooms(roomnumber)):
-                print("Added ",roomnum," more rooms")
+                print("Added ",roomnumber," more rooms")
             print("No rooms are added")
         c=c+1
 
