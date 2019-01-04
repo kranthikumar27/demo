@@ -27,15 +27,12 @@ reservation.py:20:18: C0326: Exactly one space required around assignment
         self.count=0
                   ^ (bad-whitespace)
 reservation.py:21:0: C0303: Trailing whitespace (trailing-whitespace)
-reservation.py:23:20: C0326: Exactly one space required around comparison
-        if self.size==self.count:
-                    ^^ (bad-whitespace)
-reservation.py:27:28: C0326: Exactly one space required around comparison
-            if self.rooms[i]==None:
-                            ^^ (bad-whitespace)
-reservation.py:28:19: C0326: Exactly one space required around assignment
-                obj=reservation(cname)
-                   ^ (bad-whitespace)
+reservation.py:22:28: C0326: Exactly one space required after comma
+    def reservationRoom(self,cname):
+                            ^ (bad-whitespace)
+reservation.py:29:30: C0326: Exactly one space required before comparison
+            if self.rooms[i]  == None:
+                              ^^ (bad-whitespace)
 reservation.py:40:0: C0325: Unnecessary parens after 'elif' keyword (superfluous-parens)
 reservation.py:41:36: C0326: Exactly one space required after comma
             obj1 = reservation(cname,roomnumber)
@@ -80,9 +77,6 @@ reservation.py:80:14: C0326: Exactly one space required around assignment
 reservation.py:84:20: C0326: Exactly one space required before comparison
             if cname!= None:
                     ^^ (bad-whitespace)
-reservation.py:88:27: C0326: Exactly one space required after comma
-                print(cname,roomnumber)
-                           ^ (bad-whitespace)
 reservation.py:90:27: C0326: Exactly one space required after comma
                 print(cname,roomnumber)
                            ^ (bad-whitespace)
@@ -125,9 +119,9 @@ reservation.py:11:4: C0111: Missing method docstring (missing-docstring)
 reservation.py:13:4: C0111: Missing method docstring (missing-docstring)
 reservation.py:16:0: C0103: Class name "hotel" doesn't conform to PascalCase naming style (invalid-name)
 reservation.py:16:0: C0111: Missing class docstring (missing-docstring)
-reservation.py:22:4: C0103: Method name "reserveRoom" doesn't conform to snake_case naming style (invalid-name)
+reservation.py:22:4: C0103: Method name "reservationRoom" doesn't conform to snake_case naming style (invalid-name)
 reservation.py:22:4: C0111: Missing method docstring (missing-docstring)
-reservation.py:27:15: C0121: Comparison to None should be 'expr is None' (singleton-comparison)
+reservation.py:29:15: C0121: Comparison to None should be 'expr is None' (singleton-comparison)
 reservation.py:22:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
 reservation.py:37:4: C0103: Method name "reservingRoom" doesn't conform to snake_case naming style (invalid-name)
 reservation.py:37:4: C0111: Missing method docstring (missing-docstring)
@@ -144,6 +138,7 @@ reservation.py:66:8: R1705: Unnecessary "else" after "return" (no-else-return)
 reservation.py:67:16: W0612: Unused variable 'i' (unused-variable)
 reservation.py:74:0: C0111: Missing class docstring (missing-docstring)
 reservation.py:84:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
+reservation.py:85:29: E1101: Instance of 'hotel' has no 'reserveRoom' member (no-member)
 reservation.py:94:15: C0121: Comparison to None should be 'expr is None' (singleton-comparison)
 reservation.py:107:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
 reservation.py:74:0: R0903: Too few public methods (0/2) (too-few-public-methods)
@@ -152,5 +147,5 @@ reservation.py:122:4: C0103: Variable name "Solution" doesn't conform to snake_c
 reservation.py:122:4: W0612: Unused variable 'Solution' (unused-variable)
 
 ------------------------------------------------------------------
-Your code has been rated at 1.77/10 (previous run: 2.02/10, -0.25)
+Your code has been rated at 1.37/10 (previous run: 1.77/10, -0.40)
 

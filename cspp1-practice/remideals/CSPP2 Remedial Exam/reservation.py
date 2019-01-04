@@ -19,19 +19,19 @@ class hotel:
         self.size=5
         self.count=0
     
-    def reserveRoom(self, cname):
-        if self.size==self.count:
+    def reservationRoom(self,cname):
+        if self.size == self.count:
             print("All Rooms are reserved")
             return
+        # print("count is ",self.count)
+        # print("reservationRoom.....",self.size)
         for i in range(self.size):
-            if self.rooms[i]==None:
-                obj=reservation(cname)
+            if self.rooms[i]  == None:
+                obj = reservation(cname)
                 obj.setroomnumber(i+1)
                 self.rooms[i] = obj
-                # print("........kranthikumar........")
                 self.count += 1
-                # print(i)
-                return i+1
+                return i + 1
         return -1
 
     def reservingRoom(self, cname, roomnumber):
@@ -85,7 +85,7 @@ class Solution1:
                 roomnumber = hotel.reserveRoom(cname)
                 # break
                 # print("kranthi kumar")
-                print(cname,roomnumber)
+                # print(cname,roomnumber)
             elif roomnumber != -1:
                 print(cname,roomnumber)
 
