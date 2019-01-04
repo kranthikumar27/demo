@@ -19,7 +19,7 @@ class hotel:
         self.size=5
         self.count=0
     
-    def reservationRoom(self,cname):
+    def reserveRoom(self,cname):
         if self.size == self.count:
             print("All Rooms are reserved")
             return
