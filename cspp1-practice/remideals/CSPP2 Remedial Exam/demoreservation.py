@@ -60,7 +60,7 @@ class Hotel:
             # print("####################",self.count)
             # print("value of i",i)
             if self.rooms[i] != None:
-                print(self.rooms[i].getName(),self.rooms[i].getRoomnumber())
+                print(self.rooms[i].getName(),"",self.rooms[i].getRoomnumber())
     def buildRooms(self,roomnumber):
         if roomnumber > 0:
             for i in range(roomnumber):
