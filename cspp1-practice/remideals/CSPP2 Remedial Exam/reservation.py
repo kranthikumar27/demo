@@ -32,7 +32,7 @@ class hotel:
                 self.count += 1
                 # print(i)
                 return i+1
-        return 1
+        return -1
 
     def reservingRoom(self, cname, roomnumber):
         if self.size == self.count:
@@ -67,6 +67,10 @@ class hotel:
             for i in range(roomnumber):
                 self.rooms.append(None)
             self.size =self.size + roomnumber
+            return True
+        else:
+            return False
+            
 class Solution1:
     hotel=hotel()
     input_data=int(input())
