@@ -30,7 +30,7 @@ class hotel:
                 self.rooms[i] = obj
                 # print("........kranthikumar........")
                 self.count += 1
-                print("kranthikumar")
+                print(i)
                 return i+1
         return -1
 
