@@ -80,6 +80,9 @@ reservation.py:80:14: C0326: Exactly one space required around assignment
 reservation.py:84:20: C0326: Exactly one space required before comparison
             if cname!= None:
                     ^^ (bad-whitespace)
+reservation.py:88:27: C0326: Exactly one space required after comma
+                print(cname,roomnumber)
+                           ^ (bad-whitespace)
 reservation.py:90:27: C0326: Exactly one space required after comma
                 print(cname,roomnumber)
                            ^ (bad-whitespace)
@@ -111,7 +114,8 @@ reservation.py:116:40: C0326: Exactly one space required after comma
 reservation.py:119:9: C0326: Exactly one space required around assignment
         c=c+1
          ^ (bad-whitespace)
-reservation.py:124:0: C0305: Trailing newlines (trailing-newlines)
+reservation.py:124:0: W0311: Bad indentation. Found 8 spaces, expected 4 (bad-indentation)
+reservation.py:125:0: C0305: Trailing newlines (trailing-newlines)
 reservation.py:1:0: C0111: Missing module docstring (missing-docstring)
 reservation.py:1:0: C0103: Class name "reservation" doesn't conform to PascalCase naming style (invalid-name)
 reservation.py:1:0: C0111: Missing class docstring (missing-docstring)
@@ -144,7 +148,9 @@ reservation.py:94:15: C0121: Comparison to None should be 'expr is None' (single
 reservation.py:107:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
 reservation.py:74:0: R0903: Too few public methods (0/2) (too-few-public-methods)
 reservation.py:121:0: C0111: Missing function docstring (missing-docstring)
+reservation.py:122:4: C0103: Variable name "Solution" doesn't conform to snake_case naming style (invalid-name)
+reservation.py:122:4: W0612: Unused variable 'Solution' (unused-variable)
 
 ------------------------------------------------------------------
-Your code has been rated at 2.02/10 (previous run: 2.00/10, +0.02)
+Your code has been rated at 1.77/10 (previous run: 2.02/10, -0.25)
 

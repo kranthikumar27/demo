@@ -85,7 +85,7 @@ class Solution1:
                 roomnumber = hotel.reserveRoom(cname)
                 # break
                 # print("kranthi kumar")
-                # print(cname,roomnumber)
+                print(cname,roomnumber)
             elif roomnumber != -1:
                 print(cname,roomnumber)
 
@@ -119,6 +119,7 @@ class Solution1:
         c=c+1
 
 def main():
-    if __name__ == '__main__':
+    Solution = Solution1()
+if __name__ == '__main__':
         main()
 
