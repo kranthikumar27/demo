@@ -101,16 +101,16 @@ reservation.py:107:20: C0326: Exactly one space required around comparison
             if cname!=None:
                     ^^ (bad-whitespace)
 reservation.py:109:27: C0326: Exactly one space required after comma
-                print(cname," now has no reservations.")
+                print(cname,"now has no reservations.")
                            ^ (bad-whitespace)
 reservation.py:114:0: W0301: Unnecessary semicolon (unnecessary-semicolon)
 reservation.py:115:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
-reservation.py:116:30: C0326: Exactly one space required after comma
-                print("Added ",roomnumber," more rooms")
-                              ^ (bad-whitespace)
-reservation.py:116:41: C0326: Exactly one space required after comma
-                print("Added ",roomnumber," more rooms")
-                                         ^ (bad-whitespace)
+reservation.py:116:29: C0326: Exactly one space required after comma
+                print("Added",roomnumber,"more rooms")
+                             ^ (bad-whitespace)
+reservation.py:116:40: C0326: Exactly one space required after comma
+                print("Added",roomnumber,"more rooms")
+                                        ^ (bad-whitespace)
 reservation.py:119:9: C0326: Exactly one space required around assignment
         c=c+1
          ^ (bad-whitespace)

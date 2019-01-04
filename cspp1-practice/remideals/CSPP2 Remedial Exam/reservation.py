@@ -106,14 +106,14 @@ class Solution1:
             cname = tokens[1]
             if cname!=None:
                 hotel.cancelReservations(cname)
-                print(cname," now has no reservations.")
+                print(cname,"now has no reservations.")
             else:
                 print("No input")
 
         if tokens[0] == "build":
             roomnumber = int(tokens[1]);
             if(hotel.buildRooms(roomnumber)):
-                print("Added ",roomnumber," more rooms")
+                print("Added",roomnumber,"more rooms")
             else:
                 print("No rooms are added")
         c=c+1
