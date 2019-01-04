@@ -39,7 +39,6 @@ Your Output:
 kiran 2
 murthy 1
 All Rooms are reserved
-kranthikumar
 murthy 1
 kiran 2
 rajiv 3
@@ -66,7 +65,6 @@ Your Output:
 kiran 2
 murthy 1
 All Rooms are reserved
-kranthikumar
 All Rooms are reserved
 murthy 1
 kiran 2
