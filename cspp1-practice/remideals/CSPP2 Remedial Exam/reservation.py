@@ -78,7 +78,7 @@ class Solution1:
             roomnumber = -1
             if cname!= None:
                 roomnumber = hotel.reserveRoom(cname)
-                print(cname,"kranthi",roomnumber)
+                print(cname,roomnumber)
             elif roomnumber != -1:
                 print(cname,"",roomnumber)
 
