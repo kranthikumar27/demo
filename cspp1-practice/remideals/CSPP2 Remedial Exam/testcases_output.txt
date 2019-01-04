@@ -235,14 +235,15 @@ No input
 murthy   1
 kiran   2
 kalyani   3
-Traceback (most recent call last):
-  File "reservation.py", line 64, in <module>
-    class Solution1:
-  File "reservation.py", line 89, in Solution1
-    hotel.printReservations()
-  File "reservation.py", line 50, in printReservations
-    print(self.rooms[i].getcname()," ", self.rooms[i].getroomnumber())
-AttributeError: 'NoneType' object has no attribute 'getcname'
+No rooms are added
+alekhya   6
+murthy   1
+kiran   2
+kalyani   3
+manasa   4
+swathi   5
+alekhya   6
+kumar   7
 ----------------------------------------
 
 ########## Testcase 7: Failed ##########
