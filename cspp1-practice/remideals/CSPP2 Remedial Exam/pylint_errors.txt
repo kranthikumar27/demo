@@ -80,9 +80,6 @@ reservation.py:76:14: C0326: Exactly one space required around assignment
 reservation.py:80:20: C0326: Exactly one space required before comparison
             if cname!= None:
                     ^^ (bad-whitespace)
-reservation.py:84:27: C0326: Exactly one space required after comma
-                print(cname,roomnumber)
-                           ^ (bad-whitespace)
 reservation.py:86:27: C0326: Exactly one space required after comma
                 print(cname,roomnumber)
                            ^ (bad-whitespace)
@@ -148,5 +145,5 @@ reservation.py:70:0: R0903: Too few public methods (0/2) (too-few-public-methods
 reservation.py:115:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 1.94/10 (previous run: 1.94/10, +0.00)
+Your code has been rated at 1.96/10 (previous run: 1.94/10, +0.02)
 
