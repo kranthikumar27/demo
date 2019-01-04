@@ -12,14 +12,8 @@ kalyani 4
 rajiv 5
 
 Your Output: 
-kranthi kumar
-rehana 1
 karan 3
-kranthi kumar
-murthy 2
 rajiv 5
-kranthi kumar
-kalyani 4
 rehana 1
 murthy 2
 karan 3
@@ -44,15 +38,7 @@ kumar 5
 Your Output: 
 kiran 2
 murthy 1
-kranthi kumar
-rajiv 3
-kranthi kumar
-kalyani 4
-kranthi kumar
-kumar 5
 All Rooms are reserved
-kranthi kumar
-swathi None
 murthy 1
 kiran 2
 rajiv 3
@@ -78,15 +64,7 @@ kumar 5
 Your Output: 
 kiran 2
 murthy 1
-kranthi kumar
-rajiv 3
-kranthi kumar
-kalyani 4
-kranthi kumar
-kumar 5
 All Rooms are reserved
-kranthi kumar
-swathi None
 All Rooms are reserved
 murthy 1
 kiran 2
@@ -114,12 +92,6 @@ Your Output:
 kiran 2
 murthy 1
 Room is already reserved
-kranthi kumar
-kalyani 3
-kranthi kumar
-kumar 4
-kranthi kumar
-swathi 5
 All Rooms are reserved
 murthy 1
 kiran 2
@@ -151,16 +123,8 @@ Your Output:
 kiran 2
 murthy 1
 Room is already reserved
-kranthi kumar
-kalyani 3
-kranthi kumar
-kumar 4
-kranthi kumar
-swathi 5
 No rooms are added
 alekhya 6
-kranthi kumar
-manasa 7
 murthy 1
 kiran 2
 kalyani 3
@@ -209,24 +173,12 @@ reddy 10
 Your Output: 
 kiran 2
 murthy 1
-kranthi kumar
-kumar 3
 Room is already reserved
 murthy 1
 kiran 2
 kumar 3
 No rooms are added
 alekhya 6
-kranthi kumar
-manasa 4
-kranthi kumar
-kumar 5
-kranthi kumar
-karthik 7
-kranthi kumar
-manohar 8
-kranthi kumar
-kumar 9
 murthy 1
 kiran 2
 kumar 3
@@ -272,12 +224,6 @@ Your Output:
 kiran 2
 murthy 1
 Room is already reserved
-kranthi kumar
-kalyani 3
-kranthi kumar
-kumar 4
-kranthi kumar
-swathi 5
 murthy 1
 kiran 2
 kalyani 3
@@ -296,10 +242,6 @@ kalyani 3
 swathi 5
 No rooms are added
 alekhya 6
-kranthi kumar
-manasa 4
-kranthi kumar
-kumar 7
 murthy 1
 kiran 2
 kalyani 3
@@ -349,12 +291,6 @@ Your Output:
 kiran 2
 murthy 1
 Room is already reserved
-kranthi kumar
-kalyani 3
-kranthi kumar
-kumar 4
-kranthi kumar
-kumar 5
 murthy 1
 kiran 2
 kalyani 3
@@ -372,18 +308,6 @@ kiran 2
 kalyani 3
 No rooms are added
 alekhya 6
-kranthi kumar
-manasa 4
-kranthi kumar
-kumar 5
-kranthi kumar
-karthik 7
-kranthi kumar
-manohar 8
-kranthi kumar
-swetha 9
-kranthi kumar
-reddy 10
 murthy 1
 kiran 2
 kalyani 3
