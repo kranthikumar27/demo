@@ -53,15 +53,14 @@ class hotel:
         for i in range(self.size):
             # print("kranthi kumar...............")
             if self.rooms[i] != None:
-                print(self.rooms[i].getcname(), self.rooms[i].getroomnumber())
+                print(self.rooms[i].getcname()+" "+self.rooms[i].getroomnumber())
     
     def cancelReservations(self, cname):
         for i in range(self.size):
             if self.rooms[i]!=None and self.rooms[i].getcname()==cname:
                 self.rooms[i]=None
                 self.count=self.count-1
-            print("count is",self.count)
-
+            
     def buildRooms(self, roomnumber):
         if roomnumber>0:
             for i in range(roomnumber):
@@ -87,7 +86,7 @@ class Solution1:
                 # print("kranthi kumar")
                 # print(cname,roomnumber)
             elif roomnumber != -1:
-                print(cname,roomnumber)
+                print(cname+" "+roomnumber)
 
         if tokens[0] == "reserveN":
             cname = tokens[1]
@@ -96,7 +95,7 @@ class Solution1:
             else :
                 roomnumber = int(tokens[2])
             if(hotel.reservingRoom(cname,roomnumber)):
-                print(cname,roomnumber)
+                print(cname+" "+roomnumber)
 
         if tokens[0] == "print":
             hotel.printReservations()
@@ -106,14 +105,14 @@ class Solution1:
             cname = tokens[1]
             if cname!=None:
                 hotel.cancelReservations(cname)
-                print(cname,"now has no reservations.")
+                print(cname+ " "+"now has no reservations.")
             else:
                 print("No input")
 
         if tokens[0] == "build":
             roomnumber = int(tokens[1]);
             if(hotel.buildRooms(roomnumber)):
-                print("Added",roomnumber,"more rooms")
+                print("Added"+" "+roomnumber+" "+"more rooms")
             else:
                 print("No rooms are added")
         c=c+1
