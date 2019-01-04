@@ -49,7 +49,7 @@ class hotel:
         return False
 
     def printReservations(self):
-        for i in range(self.count):
+        for i in range(self.size):
             # print("kranthi kumar...............")
             if self.rooms[i] != None:
                 print(self.rooms[i].getcname(), self.rooms[i].getroomnumber())
