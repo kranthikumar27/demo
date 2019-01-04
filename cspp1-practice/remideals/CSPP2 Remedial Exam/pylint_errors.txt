@@ -75,9 +75,6 @@ reservation.py:79:14: C0326: Exactly one space required around assignment
 reservation.py:83:20: C0326: Exactly one space required before comparison
             if cname!= None:
                     ^^ (bad-whitespace)
-reservation.py:87:27: C0326: Exactly one space required after comma
-                print(cname,roomnumber)
-                           ^ (bad-whitespace)
 reservation.py:95:17: C0326: No space allowed before :
             else :
                  ^ (bad-whitespace)
@@ -132,5 +129,5 @@ reservation.py:121:4: C0103: Variable name "Solution" doesn't conform to snake_c
 reservation.py:121:4: W0612: Unused variable 'Solution' (unused-variable)
 
 ------------------------------------------------------------------
-Your code has been rated at 2.32/10 (previous run: 2.34/10, -0.02)
+Your code has been rated at 2.42/10 (previous run: 2.32/10, +0.11)
 
