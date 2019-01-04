@@ -80,7 +80,7 @@ class Solution1:
                 roomnumber = hotel.reserveRoom(cname)
                 print(cname,roomnumber)
             elif roomnumber != -1:
-                print(cname,"",roomnumber)
+                print(cname,roomnumber)
 
         if tokens[0] == "reserveN":
             cname = tokens[1]
@@ -89,7 +89,7 @@ class Solution1:
             else :
                 roomnumber = int(tokens[2])
             if(hotel.reservingRoom(cname,roomnumber)):
-                print(cname ,"",roomnumber)
+                print(cname,roomnumber)
 
         if tokens[0] == "print":
             hotel.printReservations()
