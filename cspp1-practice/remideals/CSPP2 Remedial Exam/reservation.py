@@ -1,5 +1,5 @@
 class reservation:
-    def __init__(self, cname, roomnumber=50):
+    def __init__(self, cname, roomnumber=500):
         self.cname=cname
         self.roomnumber=roomnumber
     # def __init__(self, cname):
