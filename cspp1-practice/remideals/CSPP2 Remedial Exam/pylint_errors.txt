@@ -130,5 +130,5 @@ reservation.py:121:4: C0103: Variable name "Solution" doesn't conform to snake_c
 reservation.py:121:4: W0612: Unused variable 'Solution' (unused-variable)
 
 ------------------------------------------------------------------
-Your code has been rated at 1.81/10 (previous run: 1.37/10, +0.44)
+Your code has been rated at 1.81/10 (previous run: 1.81/10, +0.00)
 

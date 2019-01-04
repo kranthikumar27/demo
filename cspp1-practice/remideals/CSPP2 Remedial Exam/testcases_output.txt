@@ -35,12 +35,14 @@ kalyani 4
 kumar 5
 
 Your Output: 
+kiran 2
+murthy 1
 Traceback (most recent call last):
   File "reservation.py", line 73, in <module>
     class Solution1:
-  File "reservation.py", line 98, in Solution1
-    print(cname+" "+roomnumber)
-TypeError: can only concatenate str (not "int") to str
+  File "reservation.py", line 84, in Solution1
+    roomnumber = hotel.reserveRoom(cname)
+AttributeError: 'hotel' object has no attribute 'reserveRoom'
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -59,12 +61,14 @@ kalyani 4
 kumar 5
 
 Your Output: 
+kiran 2
+murthy 1
 Traceback (most recent call last):
   File "reservation.py", line 73, in <module>
     class Solution1:
-  File "reservation.py", line 98, in Solution1
-    print(cname+" "+roomnumber)
-TypeError: can only concatenate str (not "int") to str
+  File "reservation.py", line 84, in Solution1
+    roomnumber = hotel.reserveRoom(cname)
+AttributeError: 'hotel' object has no attribute 'reserveRoom'
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -83,12 +87,15 @@ kumar 4
 swathi 5
 
 Your Output: 
+kiran 2
+murthy 1
+Room is already reserved
 Traceback (most recent call last):
   File "reservation.py", line 73, in <module>
     class Solution1:
-  File "reservation.py", line 98, in Solution1
-    print(cname+" "+roomnumber)
-TypeError: can only concatenate str (not "int") to str
+  File "reservation.py", line 84, in Solution1
+    roomnumber = hotel.reserveRoom(cname)
+AttributeError: 'hotel' object has no attribute 'reserveRoom'
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -111,12 +118,15 @@ alekhya 6
 manasa 7
 
 Your Output: 
+kiran 2
+murthy 1
+Room is already reserved
 Traceback (most recent call last):
   File "reservation.py", line 73, in <module>
     class Solution1:
-  File "reservation.py", line 98, in Solution1
-    print(cname+" "+roomnumber)
-TypeError: can only concatenate str (not "int") to str
+  File "reservation.py", line 84, in Solution1
+    roomnumber = hotel.reserveRoom(cname)
+AttributeError: 'hotel' object has no attribute 'reserveRoom'
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -156,12 +166,14 @@ swetha 9
 reddy 10
 
 Your Output: 
+kiran 2
+murthy 1
 Traceback (most recent call last):
   File "reservation.py", line 73, in <module>
     class Solution1:
-  File "reservation.py", line 98, in Solution1
-    print(cname+" "+roomnumber)
-TypeError: can only concatenate str (not "int") to str
+  File "reservation.py", line 84, in Solution1
+    roomnumber = hotel.reserveRoom(cname)
+AttributeError: 'hotel' object has no attribute 'reserveRoom'
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -195,12 +207,15 @@ alekhya 6
 kumar 7
 
 Your Output: 
+kiran 2
+murthy 1
+Room is already reserved
 Traceback (most recent call last):
   File "reservation.py", line 73, in <module>
     class Solution1:
-  File "reservation.py", line 98, in Solution1
-    print(cname+" "+roomnumber)
-TypeError: can only concatenate str (not "int") to str
+  File "reservation.py", line 84, in Solution1
+    roomnumber = hotel.reserveRoom(cname)
+AttributeError: 'hotel' object has no attribute 'reserveRoom'
 ----------------------------------------
 
 ########## Testcase 7: Failed ##########
@@ -240,11 +255,14 @@ swetha 9
 reddy 10
 
 Your Output: 
+kiran 2
+murthy 1
+Room is already reserved
 Traceback (most recent call last):
   File "reservation.py", line 73, in <module>
     class Solution1:
-  File "reservation.py", line 98, in Solution1
-    print(cname+" "+roomnumber)
-TypeError: can only concatenate str (not "int") to str
+  File "reservation.py", line 84, in Solution1
+    roomnumber = hotel.reserveRoom(cname)
+AttributeError: 'hotel' object has no attribute 'reserveRoom'
 ----------------------------------------
 
