@@ -31,10 +31,10 @@ class hotel:
                 self.count += 1
                 return i+1
         return -1
+        
     def reservingRoom(self, cname, roomnumber):
         if self.size == self.count:
             print("All Rooms are reserved")
-            return False
         elif (self.rooms[roomnumber-1] == None):
             obj1 = reservation(cname,roomnumber)
             self.rooms[roomnumber-1] = obj1
@@ -50,7 +50,6 @@ class hotel:
             if self.rooms[i] != None:
                 print(self.rooms[i].getcname()," ", self.rooms[i].getroomnumber())
     
-            
     def cancelReservations(self, cname):
         for i in range(self.size):
             if self.rooms[i]!=None and self.rooms[i].getcname()==cname:
