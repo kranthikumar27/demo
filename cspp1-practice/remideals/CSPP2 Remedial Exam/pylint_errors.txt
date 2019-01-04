@@ -103,18 +103,18 @@ reservation.py:107:20: C0326: Exactly one space required around comparison
 reservation.py:109:27: C0326: Exactly one space required after comma
                 print(cname," now has no reservations.")
                            ^ (bad-whitespace)
-reservation.py:113:0: W0301: Unnecessary semicolon (unnecessary-semicolon)
-reservation.py:114:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
-reservation.py:115:30: C0326: Exactly one space required after comma
+reservation.py:114:0: W0301: Unnecessary semicolon (unnecessary-semicolon)
+reservation.py:115:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
+reservation.py:116:30: C0326: Exactly one space required after comma
                 print("Added ",roomnumber," more rooms")
                               ^ (bad-whitespace)
-reservation.py:115:41: C0326: Exactly one space required after comma
+reservation.py:116:41: C0326: Exactly one space required after comma
                 print("Added ",roomnumber," more rooms")
                                          ^ (bad-whitespace)
-reservation.py:117:9: C0326: Exactly one space required around assignment
+reservation.py:119:9: C0326: Exactly one space required around assignment
         c=c+1
          ^ (bad-whitespace)
-reservation.py:122:0: C0305: Trailing newlines (trailing-newlines)
+reservation.py:124:0: C0305: Trailing newlines (trailing-newlines)
 reservation.py:1:0: C0111: Missing module docstring (missing-docstring)
 reservation.py:1:0: C0103: Class name "reservation" doesn't conform to PascalCase naming style (invalid-name)
 reservation.py:1:0: C0111: Missing class docstring (missing-docstring)
@@ -146,7 +146,7 @@ reservation.py:84:15: C0121: Comparison to None should be 'expr is not None' (si
 reservation.py:94:15: C0121: Comparison to None should be 'expr is None' (singleton-comparison)
 reservation.py:107:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
 reservation.py:74:0: R0903: Too few public methods (0/2) (too-few-public-methods)
-reservation.py:119:0: C0111: Missing function docstring (missing-docstring)
+reservation.py:121:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
 Your code has been rated at 2.00/10 (previous run: 2.00/10, +0.00)
