@@ -79,6 +79,7 @@ class Solution1:
             if cname!= None:
                 roomnumber = hotel.reserveRoom(cname)
                 # break
+                print("kranthi kumar")
                 print(cname,roomnumber)
             elif roomnumber != -1:
                 print(cname,roomnumber)

@@ -80,41 +80,41 @@ reservation.py:75:14: C0326: Exactly one space required around assignment
 reservation.py:79:20: C0326: Exactly one space required before comparison
             if cname!= None:
                     ^^ (bad-whitespace)
-reservation.py:82:27: C0326: Exactly one space required after comma
+reservation.py:83:27: C0326: Exactly one space required after comma
                 print(cname,roomnumber)
                            ^ (bad-whitespace)
-reservation.py:84:27: C0326: Exactly one space required after comma
+reservation.py:85:27: C0326: Exactly one space required after comma
                 print(cname,roomnumber)
                            ^ (bad-whitespace)
-reservation.py:90:17: C0326: No space allowed before :
+reservation.py:91:17: C0326: No space allowed before :
             else :
                  ^ (bad-whitespace)
-reservation.py:92:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
-reservation.py:92:40: C0326: Exactly one space required after comma
+reservation.py:93:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
+reservation.py:93:40: C0326: Exactly one space required after comma
             if(hotel.reservingRoom(cname,roomnumber)):
                                         ^ (bad-whitespace)
-reservation.py:93:27: C0326: Exactly one space required after comma
+reservation.py:94:27: C0326: Exactly one space required after comma
                 print(cname,roomnumber)
                            ^ (bad-whitespace)
-reservation.py:97:0: C0303: Trailing whitespace (trailing-whitespace)
-reservation.py:101:20: C0326: Exactly one space required around comparison
+reservation.py:98:0: C0303: Trailing whitespace (trailing-whitespace)
+reservation.py:102:20: C0326: Exactly one space required around comparison
             if cname!=None:
                     ^^ (bad-whitespace)
-reservation.py:103:27: C0326: Exactly one space required after comma
+reservation.py:104:27: C0326: Exactly one space required after comma
                 print(cname," now has no reservations.")
                            ^ (bad-whitespace)
-reservation.py:107:0: W0301: Unnecessary semicolon (unnecessary-semicolon)
-reservation.py:108:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
-reservation.py:109:30: C0326: Exactly one space required after comma
+reservation.py:108:0: W0301: Unnecessary semicolon (unnecessary-semicolon)
+reservation.py:109:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
+reservation.py:110:30: C0326: Exactly one space required after comma
                 print("Added ",roomnumber," more rooms")
                               ^ (bad-whitespace)
-reservation.py:109:41: C0326: Exactly one space required after comma
+reservation.py:110:41: C0326: Exactly one space required after comma
                 print("Added ",roomnumber," more rooms")
                                          ^ (bad-whitespace)
-reservation.py:111:9: C0326: Exactly one space required around assignment
+reservation.py:112:9: C0326: Exactly one space required around assignment
         c=c+1
          ^ (bad-whitespace)
-reservation.py:116:0: C0305: Trailing newlines (trailing-newlines)
+reservation.py:117:0: C0305: Trailing newlines (trailing-newlines)
 reservation.py:1:0: C0111: Missing module docstring (missing-docstring)
 reservation.py:1:0: C0103: Class name "reservation" doesn't conform to PascalCase naming style (invalid-name)
 reservation.py:1:0: C0111: Missing class docstring (missing-docstring)
@@ -142,11 +142,11 @@ reservation.py:64:4: C0111: Missing method docstring (missing-docstring)
 reservation.py:66:16: W0612: Unused variable 'i' (unused-variable)
 reservation.py:69:0: C0111: Missing class docstring (missing-docstring)
 reservation.py:79:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
-reservation.py:88:15: C0121: Comparison to None should be 'expr is None' (singleton-comparison)
-reservation.py:101:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
+reservation.py:89:15: C0121: Comparison to None should be 'expr is None' (singleton-comparison)
+reservation.py:102:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
 reservation.py:69:0: R0903: Too few public methods (0/2) (too-few-public-methods)
-reservation.py:113:0: C0111: Missing function docstring (missing-docstring)
+reservation.py:114:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 1.94/10 (previous run: 1.96/10, -0.02)
+Your code has been rated at 2.02/10 (previous run: 1.94/10, +0.09)
 
