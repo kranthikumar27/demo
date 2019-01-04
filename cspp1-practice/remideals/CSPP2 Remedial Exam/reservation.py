@@ -46,10 +46,21 @@ class hotel:
 
     def printReservations(self):
         for i in range(self.count):
+            print("kranthi kumar...............")
             print(self.rooms[i].getcname()," ", self.rooms[i].getroomnumber())
     
     def cancelReservations(self, cname):
-        pass
+        for i in range(self.size):
+            if self.rooms[i]!=None and self.rooms[i].getcname()==cname:
+                self.rooms[i]=None
+                self.count=self.count-1
+            print("count is",self.count)
+
+    def buildRooms(self, roomnumber):
+        if roomnumber>0:
+            for i in range(self.size):
+                self.rooms.append(None)
+            self.size =self.size + roomnumber
 class Solution1:
     hotel=hotel()
     input_data=int(input())
@@ -84,6 +95,12 @@ class Solution1:
                 hotel.cancelReservations(cname)
                 print(cname," now has no reservations.")
             print("No input")
+
+        if tokens[0] == "build":
+            roomnum = int(tokens[1]);
+            if(hotel.buildRooms(roomnumber)):
+                print("Added ",roomnum," more rooms")
+            print("No rooms are added")
         c=c+1
 
 def main():

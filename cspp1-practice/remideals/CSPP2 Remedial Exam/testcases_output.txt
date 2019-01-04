@@ -14,10 +14,15 @@ rajiv 5
 Your Output: 
 karan   3
 rajiv   5
+kranthi kumar...............
 rehana   1
+kranthi kumar...............
 murthy   2
+kranthi kumar...............
 karan   3
+kranthi kumar...............
 kalyani   4
+kranthi kumar...............
 rajiv   5
 ----------------------------------------
 
@@ -39,10 +44,15 @@ Your Output:
 kiran   2
 murthy   1
 All Rooms are reserved
+kranthi kumar...............
 murthy   1
+kranthi kumar...............
 kiran   2
+kranthi kumar...............
 rajiv   3
+kranthi kumar...............
 kalyani   4
+kranthi kumar...............
 kumar   5
 ----------------------------------------
 
@@ -66,10 +76,15 @@ kiran   2
 murthy   1
 All Rooms are reserved
 All Rooms are reserved
+kranthi kumar...............
 murthy   1
+kranthi kumar...............
 kiran   2
+kranthi kumar...............
 rajiv   3
+kranthi kumar...............
 kalyani   4
+kranthi kumar...............
 kumar   5
 ----------------------------------------
 
@@ -92,10 +107,15 @@ Your Output:
 kiran   2
 murthy   1
 All Rooms are reserved
+kranthi kumar...............
 murthy   1
+kranthi kumar...............
 kiran   2
+kranthi kumar...............
 kalyani   3
+kranthi kumar...............
 kumar   4
+kranthi kumar...............
 swathi   5
 ----------------------------------------
 
@@ -121,13 +141,22 @@ manasa 7
 Your Output: 
 kiran   2
 murthy   1
-All Rooms are reserved
-All Rooms are reserved
+No rooms are added
+alekhya   6
+kranthi kumar...............
 murthy   1
+kranthi kumar...............
 kiran   2
+kranthi kumar...............
 kalyani   3
+kranthi kumar...............
 kumar   4
+kranthi kumar...............
 swathi   5
+kranthi kumar...............
+alekhya   6
+kranthi kumar...............
+manasa   7
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -169,17 +198,31 @@ reddy 10
 Your Output: 
 kiran   2
 murthy   1
+kranthi kumar...............
 murthy   1
+kranthi kumar...............
 kiran   2
+kranthi kumar...............
 kumar   3
-Traceback (most recent call last):
-  File "reservation.py", line 53, in <module>
-    class Solution1:
-  File "reservation.py", line 74, in Solution1
-    if(hotel.reservingRoom(cname,roomnumber)):
-  File "reservation.py", line 38, in reservingRoom
-    elif (self.rooms[roomnumber-1] == None):
-IndexError: list index out of range
+No rooms are added
+alekhya   6
+All Rooms are reserved
+kranthi kumar...............
+murthy   1
+kranthi kumar...............
+kiran   2
+kranthi kumar...............
+kumar   3
+kranthi kumar...............
+manasa   4
+kranthi kumar...............
+kumar   5
+kranthi kumar...............
+alekhya   6
+kranthi kumar...............
+karthik   7
+kranthi kumar...............
+manohar   8
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -215,15 +258,20 @@ kumar 7
 Your Output: 
 kiran   2
 murthy   1
+kranthi kumar...............
 murthy   1
+kranthi kumar...............
 kiran   2
+kranthi kumar...............
 kalyani   3
+kranthi kumar...............
 kumar   4
+kranthi kumar...............
 swathi   5
 Traceback (most recent call last):
-  File "reservation.py", line 53, in <module>
+  File "reservation.py", line 64, in <module>
     class Solution1:
-  File "reservation.py", line 83, in Solution1
+  File "reservation.py", line 94, in Solution1
     if cname!=null:
 NameError: name 'null' is not defined
 ----------------------------------------
@@ -267,15 +315,20 @@ reddy 10
 Your Output: 
 kiran   2
 murthy   1
+kranthi kumar...............
 murthy   1
+kranthi kumar...............
 kiran   2
+kranthi kumar...............
 kalyani   3
+kranthi kumar...............
 kumar   4
+kranthi kumar...............
 kumar   5
 Traceback (most recent call last):
-  File "reservation.py", line 53, in <module>
+  File "reservation.py", line 64, in <module>
     class Solution1:
-  File "reservation.py", line 83, in Solution1
+  File "reservation.py", line 94, in Solution1
     if cname!=null:
 NameError: name 'null' is not defined
 ----------------------------------------
