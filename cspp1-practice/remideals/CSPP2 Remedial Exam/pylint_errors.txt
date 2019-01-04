@@ -62,7 +62,6 @@ reservation.py:66:21: C0326: Exactly one space required around comparison
 reservation.py:69:22: C0326: Exactly one space required after assignment
             self.size =self.size + roomnumber
                       ^ (bad-whitespace)
-reservation.py:73:0: C0303: Trailing whitespace (trailing-whitespace)
 reservation.py:75:9: C0326: Exactly one space required around assignment
     hotel=hotel()
          ^ (bad-whitespace)
@@ -81,6 +80,9 @@ reservation.py:80:14: C0326: Exactly one space required around assignment
 reservation.py:84:20: C0326: Exactly one space required before comparison
             if cname!= None:
                     ^^ (bad-whitespace)
+reservation.py:88:27: C0326: Exactly one space required after comma
+                print(cname,roomnumber)
+                           ^ (bad-whitespace)
 reservation.py:90:27: C0326: Exactly one space required after comma
                 print(cname,roomnumber)
                            ^ (bad-whitespace)
@@ -147,5 +149,5 @@ reservation.py:74:0: R0903: Too few public methods (0/2) (too-few-public-methods
 reservation.py:119:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 1.91/10 (previous run: 1.96/10, -0.04)
+Your code has been rated at 2.00/10 (previous run: 1.91/10, +0.09)
 

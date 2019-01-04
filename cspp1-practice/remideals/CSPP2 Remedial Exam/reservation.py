@@ -70,7 +70,7 @@ class hotel:
             return True
         else:
             return False
-            
+
 class Solution1:
     hotel=hotel()
     input_data=int(input())
@@ -85,7 +85,7 @@ class Solution1:
                 roomnumber = hotel.reserveRoom(cname)
                 # break
                 # print("kranthi kumar")
-                # print(cname,roomnumber)
+                print(cname,roomnumber)
             elif roomnumber != -1:
                 print(cname,roomnumber)
 
