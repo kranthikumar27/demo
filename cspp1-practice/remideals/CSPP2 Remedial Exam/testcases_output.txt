@@ -12,11 +12,11 @@ kalyani 4
 rajiv 5
 
 Your Output: 
-rehana   1
-karan   3
-murthy   2
-rajiv   5
-kalyani   4
+rehana  1
+karan  3
+murthy  2
+rajiv  5
+kalyani  4
 rehana   1
 murthy   2
 karan   3
@@ -39,13 +39,13 @@ kalyani 4
 kumar 5
 
 Your Output: 
-kiran   2
-murthy   1
-rajiv   3
-kalyani   4
-kumar   5
+kiran  2
+murthy  1
+rajiv  3
+kalyani  4
+kumar  5
 All Rooms are reserved
-swathi   None
+swathi  None
 murthy   1
 kiran   2
 rajiv   3
@@ -69,13 +69,13 @@ kalyani 4
 kumar 5
 
 Your Output: 
-kiran   2
-murthy   1
-rajiv   3
-kalyani   4
-kumar   5
+kiran  2
+murthy  1
+rajiv  3
+kalyani  4
+kumar  5
 All Rooms are reserved
-swathi   None
+swathi  None
 All Rooms are reserved
 murthy   1
 kiran   2
@@ -100,12 +100,12 @@ kumar 4
 swathi 5
 
 Your Output: 
-kiran   2
-murthy   1
+kiran  2
+murthy  1
 Room is already reserved
-kalyani   3
-kumar   4
-swathi   5
+kalyani  3
+kumar  4
+swathi  5
 All Rooms are reserved
 murthy   1
 kiran   2
@@ -134,15 +134,15 @@ alekhya 6
 manasa 7
 
 Your Output: 
-kiran   2
-murthy   1
+kiran  2
+murthy  1
 Room is already reserved
-kalyani   3
-kumar   4
-swathi   5
+kalyani  3
+kumar  4
+swathi  5
 No rooms are added
-alekhya   6
-manasa   7
+alekhya  6
+manasa  7
 murthy   1
 kiran   2
 kalyani   3
@@ -189,20 +189,20 @@ swetha 9
 reddy 10
 
 Your Output: 
-kiran   2
-murthy   1
-kumar   3
+kiran  2
+murthy  1
+kumar  3
 Room is already reserved
 murthy   1
 kiran   2
 kumar   3
 No rooms are added
-alekhya   6
-manasa   4
-kumar   5
-karthik   7
-manohar   8
-kumar   9
+alekhya  6
+manasa  4
+kumar  5
+karthik  7
+manohar  8
+kumar  9
 murthy   1
 kiran   2
 kumar   3
@@ -245,12 +245,12 @@ alekhya 6
 kumar 7
 
 Your Output: 
-kiran   2
-murthy   1
+kiran  2
+murthy  1
 Room is already reserved
-kalyani   3
-kumar   4
-swathi   5
+kalyani  3
+kumar  4
+swathi  5
 murthy   1
 kiran   2
 kalyani   3
@@ -267,9 +267,9 @@ murthy   1
 kiran   2
 kalyani   3
 No rooms are added
-alekhya   6
-manasa   4
-kumar   7
+alekhya  6
+manasa  4
+kumar  7
 murthy   1
 kiran   2
 kalyani   3
@@ -316,12 +316,12 @@ swetha 9
 reddy 10
 
 Your Output: 
-kiran   2
-murthy   1
+kiran  2
+murthy  1
 Room is already reserved
-kalyani   3
-kumar   4
-kumar   5
+kalyani  3
+kumar  4
+kumar  5
 murthy   1
 kiran   2
 kalyani   3
@@ -338,13 +338,13 @@ murthy   1
 kiran   2
 kalyani   3
 No rooms are added
-alekhya   6
-manasa   4
-kumar   5
-karthik   7
-manohar   8
-swetha   9
-reddy   10
+alekhya  6
+manasa  4
+kumar  5
+karthik  7
+manohar  8
+swetha  9
+reddy  10
 murthy   1
 kiran   2
 kalyani   3
