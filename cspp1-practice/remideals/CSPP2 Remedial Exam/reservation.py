@@ -22,6 +22,7 @@ class hotel:
     def reserveRoom(self, cname):
         if self.size==self.count:
             print("All Rooms are reserved")
+            print("kranthikumar")
             return
         for i in range(self.size):
             if self.rooms[i]==None:
@@ -30,7 +31,7 @@ class hotel:
                 self.rooms[i] = obj
                 # print("........kranthikumar........")
                 self.count += 1
-                print(i)
+                # print(i)
                 return i+1
         return -1
 
