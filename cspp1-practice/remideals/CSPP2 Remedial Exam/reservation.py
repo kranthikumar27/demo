@@ -84,7 +84,7 @@ class Solution1:
                 roomnumber = hotel.reserveRoom(cname)
                 # break
                 # print("kranthi kumar")
-                print(cname+" "+roomnumber)
+                print(cname+" "+str(roomnumber))
             elif roomnumber != -1:
                 print(cname+ " " +str(roomnumber))
 
