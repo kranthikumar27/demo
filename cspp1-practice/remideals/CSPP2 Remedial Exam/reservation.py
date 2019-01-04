@@ -31,8 +31,8 @@ class hotel:
                 # print("........kranthikumar........")
                 self.count += 1
                 # print(i)
-                return -1
-        return -1
+                return i+1
+        return 1
 
     def reservingRoom(self, cname, roomnumber):
         if self.size == self.count:
