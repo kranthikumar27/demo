@@ -156,5 +156,5 @@ reservation.py:64:0: R0903: Too few public methods (0/2) (too-few-public-methods
 reservation.py:106:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 1.17/10 (previous run: 1.39/10, -0.22)
+Your code has been rated at 1.08/10 (previous run: 1.17/10, -0.09)
 
