@@ -28,7 +28,7 @@ class hotel:
                 obj=reservation(cname)
                 obj.setroomnumber(i+1)
                 self.rooms[i] = obj
-                print("........kranthikumar........")
+                # print("........kranthikumar........")
                 self.count += 1
                 return i+1
         return -1
