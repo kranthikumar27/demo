@@ -91,7 +91,7 @@ class Solution1:
 
         if tokens[0] == "cancel":
             cname = tokens[1]
-            if cname!=null:
+            if cname!=None:
                 hotel.cancelReservations(cname)
                 print(cname," now has no reservations.")
             print("No input")

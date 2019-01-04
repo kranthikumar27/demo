@@ -105,7 +105,7 @@ reservation.py:86:31: C0326: Exactly one space required after comma
                                ^ (bad-whitespace)
 reservation.py:90:0: C0303: Trailing whitespace (trailing-whitespace)
 reservation.py:94:20: C0326: Exactly one space required around comparison
-            if cname!=null:
+            if cname!=None:
                     ^^ (bad-whitespace)
 reservation.py:96:27: C0326: Exactly one space required after comma
                 print(cname," now has no reservations.")
@@ -151,10 +151,10 @@ reservation.py:61:16: W0612: Unused variable 'i' (unused-variable)
 reservation.py:64:0: C0111: Missing class docstring (missing-docstring)
 reservation.py:74:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
 reservation.py:81:15: C0121: Comparison to None should be 'expr is None' (singleton-comparison)
-reservation.py:94:22: E0602: Undefined variable 'null' (undefined-variable)
+reservation.py:94:15: C0121: Comparison to None should be 'expr is not None' (singleton-comparison)
 reservation.py:64:0: R0903: Too few public methods (0/2) (too-few-public-methods)
 reservation.py:106:0: C0111: Missing function docstring (missing-docstring)
 
 ------------------------------------------------------------------
-Your code has been rated at 1.08/10 (previous run: 1.17/10, -0.09)
+Your code has been rated at 1.51/10 (previous run: 1.08/10, +0.43)
 

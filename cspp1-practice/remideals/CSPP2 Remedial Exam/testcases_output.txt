@@ -225,12 +225,24 @@ kiran   2
 kalyani   3
 kumar   4
 swathi   5
+count is 5
+count is 5
+count is 5
+count is 4
+count is 4
+kumar  now has no reservations.
+No input
+murthy   1
+kiran   2
+kalyani   3
 Traceback (most recent call last):
   File "reservation.py", line 64, in <module>
     class Solution1:
-  File "reservation.py", line 94, in Solution1
-    if cname!=null:
-NameError: name 'null' is not defined
+  File "reservation.py", line 89, in Solution1
+    hotel.printReservations()
+  File "reservation.py", line 50, in printReservations
+    print(self.rooms[i].getcname()," ", self.rooms[i].getroomnumber())
+AttributeError: 'NoneType' object has no attribute 'getcname'
 ----------------------------------------
 
 ########## Testcase 7: Failed ##########
@@ -277,11 +289,27 @@ kiran   2
 kalyani   3
 kumar   4
 kumar   5
-Traceback (most recent call last):
-  File "reservation.py", line 64, in <module>
-    class Solution1:
-  File "reservation.py", line 94, in Solution1
-    if cname!=null:
-NameError: name 'null' is not defined
+count is 5
+count is 5
+count is 5
+count is 4
+count is 3
+kumar  now has no reservations.
+No input
+murthy   1
+kiran   2
+kalyani   3
+No rooms are added
+alekhya   6
+murthy   1
+kiran   2
+kalyani   3
+manasa   4
+kumar   5
+alekhya   6
+karthik   7
+manohar   8
+swetha   9
+reddy   10
 ----------------------------------------
 
