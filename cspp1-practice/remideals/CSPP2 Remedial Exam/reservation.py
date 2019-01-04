@@ -63,7 +63,7 @@ class hotel:
 
     def buildRooms(self, roomnumber):
         if roomnumber>0:
-            for i in range(self.size):
+            for i in range(roomnumber):
                 self.rooms.append(None)
             self.size =self.size + roomnumber
 class Solution1:
