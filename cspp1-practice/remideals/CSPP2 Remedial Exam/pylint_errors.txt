@@ -43,17 +43,14 @@ demoreservation.py:51:30: C0326: Exactly one space required after comma
     def cancelReservation(self,name):
                               ^ (bad-whitespace)
 demoreservation.py:63:45: C0326: Exactly one space required after comma
-                print(self.rooms[i].getName()," ",self.rooms[i].getRoomnumber())
+                print(self.rooms[i].getName(),self.rooms[i].getRoomnumber())
                                              ^ (bad-whitespace)
-demoreservation.py:63:49: C0326: Exactly one space required after comma
-                print(self.rooms[i].getName()," ",self.rooms[i].getRoomnumber())
-                                                 ^ (bad-whitespace)
 demoreservation.py:64:23: C0326: Exactly one space required after comma
     def buildRooms(self,roomnumber):
                        ^ (bad-whitespace)
-demoreservation.py:85:31: C0326: Exactly one space required after comma
-                print(name, " ",roomnumber)
-                               ^ (bad-whitespace)
+demoreservation.py:85:26: C0326: Exactly one space required after comma
+                print(name,roomnumber)
+                          ^ (bad-whitespace)
 demoreservation.py:92:17: C0326: No space allowed before :
             else :
                  ^ (bad-whitespace)
@@ -62,11 +59,8 @@ demoreservation.py:94:37: C0326: Exactly one space required after comma
             if(hotel.reserveRoom(name,roomnumber)):
                                      ^ (bad-whitespace)
 demoreservation.py:95:26: C0326: Exactly one space required after comma
-                print(name," ",roomnumber)
+                print(name,roomnumber)
                           ^ (bad-whitespace)
-demoreservation.py:95:30: C0326: Exactly one space required after comma
-                print(name," ",roomnumber)
-                              ^ (bad-whitespace)
 demoreservation.py:103:26: C0326: Exactly one space required after comma
                 print(name,"now has no reservations.")
                           ^ (bad-whitespace)
@@ -116,6 +110,6 @@ demoreservation.py:72:0: R0903: Too few public methods (0/2) (too-few-public-met
 demoreservation.py:114:0: C0111: Missing function docstring (missing-docstring)
 demoreservation.py:115:4: W0612: Unused variable 'solution' (unused-variable)
 
------------------------------------
-Your code has been rated at 2.98/10
+------------------------------------------------------------------
+Your code has been rated at 3.19/10 (previous run: 2.98/10, +0.21)
 

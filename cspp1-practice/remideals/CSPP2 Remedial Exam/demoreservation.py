@@ -60,7 +60,7 @@ class Hotel:
             # print("####################",self.count)
             # print("value of i",i)
             if self.rooms[i] != None:
-                print(self.rooms[i].getName()," ",self.rooms[i].getRoomnumber())
+                print(self.rooms[i].getName(),self.rooms[i].getRoomnumber())
     def buildRooms(self,roomnumber):
         if roomnumber > 0:
             for i in range(roomnumber):
@@ -82,7 +82,7 @@ class Solution1:
             if name != None:
                 roomnumber = hotel.reservationRoom(name)
             elif roomnumber != -1:
-                print(name, " ",roomnumber)
+                print(name,roomnumber)
             # return
         if line[0] == "reserveN":
             # print("reserveN case")
@@ -92,7 +92,7 @@ class Solution1:
             else :
                 roomnumber = int(line[2])
             if(hotel.reserveRoom(name,roomnumber)):
-                print(name," ",roomnumber)
+                print(name,roomnumber)
             # return
         if line[0] == "print":
             hotel.printReservations()
