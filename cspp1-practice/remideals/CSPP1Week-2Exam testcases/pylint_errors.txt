@@ -1,0 +1,20 @@
+************* Module deeplist
+deeplist.py:5:23: C0326: Exactly one space required after comma
+        if isinstance(i,list):
+                       ^ (bad-whitespace)
+deeplist.py:8:29: C0303: Trailing whitespace (trailing-whitespace)
+deeplist.py:22:0: C0303: Trailing whitespace (trailing-whitespace)
+deeplist.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+deeplist.py:26:0: C0303: Trailing whitespace (trailing-whitespace)
+deeplist.py:32:0: C0303: Trailing whitespace (trailing-whitespace)
+deeplist.py:61:25: C0303: Trailing whitespace (trailing-whitespace)
+deeplist.py:66:0: C0304: Final newline missing (missing-final-newline)
+deeplist.py:1:0: C0111: Missing module docstring (missing-docstring)
+deeplist.py:1:0: C0111: Missing function docstring (missing-docstring)
+deeplist.py:11:0: C0111: Missing function docstring (missing-docstring)
+deeplist.py:31:0: C0111: Missing function docstring (missing-docstring)
+deeplist.py:33:11: W0123: Use of eval (eval-used)
+
+-------------------------------------------------------------------
+Your code has been rated at 3.16/10 (previous run: -0.62/10, +3.78)
+
