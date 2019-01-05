@@ -12,7 +12,7 @@ def countoflists(data):
     count = 0
     for i in data:
         if isinstance(i, list):
-            count = count + countoflists(i)
+            count = count +1+ countoflists(i)
     return count
     # sum(x.count(1) for x in data)
     # for y in x:
