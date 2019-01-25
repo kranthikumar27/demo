@@ -29,7 +29,7 @@ def dailyActivites(energy):
 		else:
 			list_1.append(each[0])	
 	# print(list(dict_1.values()))
-	print(dict_1)
+	# print(dict_1)
 	list_2 = []
 	# (dict_1.values().split(","))
 	# print(list_2)

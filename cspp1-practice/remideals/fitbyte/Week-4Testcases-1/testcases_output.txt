@@ -29,7 +29,6 @@ Sleep:
 - 10:30: 8hr
 
 Your Output: 
-{'Food': 'Dosa,18/9/2018,8:30AM', 'Water': '1250,18/9/2018,8:40PM', 'PhysicalActivity': 'walking,18/9/2018,7:00AM', 'Weight': '61KG,18/9/2018,6:30AM', 'Sleep': '8hr,18/9/2018,10:30'}
 Food
 18/9/2018:
 -8:30AM:Dosa
@@ -104,7 +103,6 @@ Sleep:
 - 10:30: 8hr
 
 Your Output: 
-{'Food': 'Dosa,18/9/2018,8:30AM', 'Water': '1250,18/9/2018,8:40PM', 'PhysicalActivity': 'walking,18/9/2018,7:00AM', 'Weight': '61KG,18/9/2018,6:30AM', 'Sleep': '8hr,18/9/2018,10:30'}
 Food
 18/9/2018:
 -8:30AM:Dosa
@@ -176,7 +174,6 @@ Sleep:
 - 10:30PM: 9hrs
 
 Your Output: 
-{'Food': 'Dosa,18/9/2018,8:30AM', 'Water': '500,18/9/2018,9:45AM', 'Weight': '55Kg,18/9/2018,6:30AM', 'Sleep': '9hrs,18/9/2018,10:30PM'}
 Food
 18/9/2018:
 -8:30AM:Dosa
@@ -287,7 +284,6 @@ Sleep:
 - 10:30PM: 5hrs
 
 Your Output: 
-{'Food': 'Idli,17/9/2018,8:30AM', 'Water': '1250,17/9/2018,3PM', 'PhysicalActivity': 'walking,17/9/2018,7:00AM', 'Weight': '100Kg,17/9/2018,6:30AM', 'Sleep': '5hrs,17/9/2018,10:30PM'}
 Food
 17/9/2018:
 -8:30AM:Idli

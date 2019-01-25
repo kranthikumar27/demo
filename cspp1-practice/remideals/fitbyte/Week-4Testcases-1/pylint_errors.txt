@@ -16,7 +16,6 @@ fitbyte.py:28:0: W0312: Found indentation with tabs instead of spaces (mixed-ind
 fitbyte.py:29:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
 fitbyte.py:30:25: C0303: Trailing whitespace (trailing-whitespace)
 fitbyte.py:30:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
-fitbyte.py:32:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
 fitbyte.py:33:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
 fitbyte.py:38:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
 fitbyte.py:41:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
@@ -46,5 +45,5 @@ fitbyte.py:74:0: C0111: Missing function docstring (missing-docstring)
 fitbyte.py:77:5: W0612: Unused variable 'i' (unused-variable)
 
 --------------------------------------------------------------------
-Your code has been rated at -5.00/10 (previous run: -5.00/10, +0.00)
+Your code has been rated at -5.20/10 (previous run: -5.00/10, -0.20)
 
