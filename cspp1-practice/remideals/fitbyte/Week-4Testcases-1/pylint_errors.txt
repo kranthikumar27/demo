@@ -1,0 +1,50 @@
+************* Module fitbyte
+fitbyte.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+fitbyte.py:15:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:16:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:16:7: C0326: Exactly one space required before assignment
+	list_1= []
+       ^ (bad-whitespace)
+fitbyte.py:21:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+fitbyte.py:24:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:24:14: C0326: Exactly one space required around comparison
+		if len(each)>1:
+              ^ (bad-whitespace)
+fitbyte.py:27:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:28:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:29:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:30:25: C0303: Trailing whitespace (trailing-whitespace)
+fitbyte.py:30:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:32:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:33:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:38:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:41:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:46:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:50:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:55:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:56:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:57:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:58:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:66:14: C0303: Trailing whitespace (trailing-whitespace)
+fitbyte.py:67:0: C0303: Trailing whitespace (trailing-whitespace)
+fitbyte.py:72:0: C0303: Trailing whitespace (trailing-whitespace)
+fitbyte.py:75:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:76:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:76:15: C0326: Exactly one space required around assignment
+	caloriesintake=[]
+               ^ (bad-whitespace)
+fitbyte.py:77:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:80:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:82:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:85:0: C0304: Final newline missing (missing-final-newline)
+fitbyte.py:85:0: W0312: Found indentation with tabs instead of spaces (mixed-indentation)
+fitbyte.py:1:0: C0111: Missing module docstring (missing-docstring)
+fitbyte.py:13:0: C0103: Function name "dailyActivites" doesn't conform to snake_case naming style (invalid-name)
+fitbyte.py:13:0: C0111: Missing function docstring (missing-docstring)
+fitbyte.py:74:0: C0111: Missing function docstring (missing-docstring)
+fitbyte.py:77:5: W0612: Unused variable 'i' (unused-variable)
+
+--------------------------------------------------------------------
+Your code has been rated at -5.00/10 (previous run: -5.00/10, +0.00)
+
