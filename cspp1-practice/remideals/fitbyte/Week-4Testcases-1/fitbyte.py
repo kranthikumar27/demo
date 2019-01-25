@@ -48,14 +48,17 @@ def dailyActivites(energy):
 		# if each == dict_1.keys():
 		# if each == "Food":
 		for i in dict_1:
-			# print(i)
+			# for j in i:
+			# 	print(j)
 		# print("FFFFFFFFFFFFF")
 			# for x in xrange(1,10):
 			# 	pass
+			# print(dict_1.keys())
 			print(i)
 			print(str(each[1]) + ":")
 			print("-"+ str(each[2]) +":"+str(each[0]))
-			break
+		break
+
 		# elif each == "Water":
 		# 	print("water:")
 		# 	# for x in xrange(1,10):
